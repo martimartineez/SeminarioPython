@@ -24,7 +24,7 @@ for i in range(max_attempts):
 
     # Verificar si la letra ya ha sido adivinada
     if letter=="":
-        print("Error,ingrese una letra")
+        print("Error. Ingrese una letra")
         continue
     if letter in guessed_letters:
         print("Ya has intentado con esa letra. Intenta con otra.")
