@@ -1,4 +1,4 @@
-def generarEstructura():
+def generarEstructura(names,goals,goals_avoided,assists):
     nombres= list(name.strip()for name in names.split(","))
     valores= list(zip(goals,goals_avoided,assists))
     return dict(zip(nombres,valores))
