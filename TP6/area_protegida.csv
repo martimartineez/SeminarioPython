@@ -1,4 +1,396 @@
-nam,gna
-A,B
-E,F
-hola,chau
+lat,lng,gid,entidad,objeto,fna,gna,nam,tap,jap,caa,fdc,sag,area
+-53.5466549524999,-68.0412969038351,362,falso,Área protegida,Sitio RAMSAR y Reserva Hemisférica Costa Atlántica de Tierra del Fuego,Sitio RAMSAR y Reserva Hemisférica,Costa Atlántica de Tierra del Fuego,2,2,17,SIB/IGN/Ley Provincial Nº 415/1998,IGN,762166
+-31.4044448149999,-64.3577088932776,157,falso,Área protegida,Reserva Natural de la Defensa La Calera,Reserva Natural de la Defensa,La Calera,2,2,17,SIB/IGN/Protocolo adicional Nº 05/2009,IGN,136225
+-32.245004065,-60.7344229757555,169,falso,Área protegida,Sitio Ramsar Delta del Parana,Sitio Ramsar,Delta del Parana,2,2,17,,MAyDS,2430979
+-26.0317796969999,-54.4187433829442,47,falso,Área protegida,Parque Natural Municipal Lote C Huerto Municipal,Parque Natural Municipal,Lote C Huerto Municipal,1,4,17,SIB/IGN/Disposición Nº 45/95,IGN,955
+-26.4022577179999,-65.680992151561,206,falso,Área protegida,Parque Provincial Cumbres Calchaquíes,Parque Provincial,Cumbres Calchaquíes,1,3,17,,IGN,706222
+-27.6308533119999,-67.2755972461429,213,falso,Área protegida,Area Natural Protegida Sierras de Belén,Area Natural Protegida,Sierras de Belén,2,3,17,,MAyDS,392087
+-33.804530475,-59.2919539546585,99,falso,Área protegida,Reserva Natural Objetivo Definido Educativo Paraná Guazú,Reserva Natural Objetivo Definido Educativo,Paraná Guazú,2,4,17,,MAyDS,7541
+-47.92545844,-72.3175139920585,223,falso,Área protegida,Parque Nacional Perito Moreno,Parque Nacional,Perito Moreno,1,2,17,SIB/IGN/Decreto Nacional Nº 105.433/1937,IGN,953034
+-50.3372270369999,-69.0171115664486,230,falso,Área protegida,Parque Nacional Monte León,Parque Nacional,Monte León,1,2,17,SIB/IGN/Ley Nacional Nº 25.945/2004,IGN,562692
+-27.474381564,-55.001868198299,65,falso,Área protegida,Reserva Privada Ingeniero Barney,Reserva Privada,Ingeniero Barney,2,5,3,SIB/IGN/Decreto Provincial Nº 07/2000,IGN,500
+-39.0397331265,-61.3864939017643,1,falso,Área protegida,"Reserva Geológica, Paleontológica y Arqueológica Pehuen Có - Monte Hermoso","Reserva Geológica, Paleontológica y Arqueológic",Pehuen Có - Monte Hermoso,2,3,17,SIB/IGN/Ley Provincial Nº 13.394,IGN,572244
+-38.8107275375,-62.2700986682207,2,falso,Área protegida,Reserva Natural Integral Islote de la Gaviota Cangrejera,Reserva Natural Integral,Islote de la Gaviota Cangrejera,2,3,17,SIB/IGN/Decreto Provincial Nº 469,IGN,2925
+-38.9320230825,-60.5846767372619,3,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple Arroyo Los Gauchos,Reserva Natural Provincial de Uso Múltiple,Arroyo Los Gauchos,2,3,17,SIB/IGN/Decreto Provincial Nº 469/2011,IGN,7413
+-26.8479787945,-59.6551680999174,155,falso,Área protegida,Parque Nacional Chaco,Parque Nacional,Chaco,1,2,17,SIB/IGN/Ley Nacional Nº 14.366/1954,IGN,149308
+-33.714229557,-69.5966568864368,280,falso,Área protegida,Reserva Provincial de Uso Múltiple y Recreativa Natural Manzano - Portillo de Piuquenes,Reserva Provincial de Uso Múltiple y Recreativa,Manzano - Portillo de Piuquenes,2,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 8.400,IGN,3152446
+-23.771051921,-66.8354041539432,300,falso,Área protegida,Reserva Provincial de Fauna y Flora Olaroz - Cauchari,Reserva Provincial de Fauna y Flora,Olaroz - Cauchari,2,3,17,DIPEC/IGN04/SIB,IGN,2073205
+-24.2325359149999,-67.0122627009672,301,falso,Área protegida,Reserva Provincial de Fauna Los Andes,Reserva Provincial de Fauna,Los Andes,2,3,17,SAyDS/IGN04/SIB,IGN,15248404
+-25.8645128149999,-57.8684383454502,127,falso,Área protegida,Reserva de Pesca Puerto Dalmacia,Reserva de Pesca,Puerto Dalmacia,2,3,17,SIB/IGN/Ministerio de la Producción y Ambiente Pcial.,IGN,3072
+-27.1564965609999,-54.229564150335,70,falso,Área protegida,Parque Provincial Guarambocá,Parque Provincial,Guarambocá,1,3,17,SIB/IGN/Ley Nº 4.258/2006,IGN,21695
+-34.8395996099999,-58.1250122845887,82,falso,Área protegida,Parque Provincial Pereyra Iraola,Parque Provincial,Pereyra Iraola,1,3,17,SIB/IGN/Decreto Provincial Nº 1.465/1949,IGN,47122
+-47.7058613835,-68.0578429749036,227,falso,Área protegida,Monumento Natural Bosques Petrificados de Jaramillo,Monumento Natural,Bosques Petrificados de Jaramillo,3,2,17,SIB/IGN/Decreto Nacional Nº 7.252/1954,IGN,149918
+-42.880414301,-71.5860474011829,343,falso,Área protegida,Área Natural Protegida Los Alerces,Area Natural Protegida,Los Alerces Reserva Nacional,2,3,17,MAyDS,IGN,714007
+-34.4926029,-58.480008060195,89,falso,Área protegida,Reserva Ecológica de Vicente López,Reserva Ecológica,Vicente López,2,4,17,IGN/Portal Oficial de la Municipalidad,IGN,27
+-38.9747243589999,-61.6690715104654,4,falso,Área protegida,Reserva Natural de la Defensa Baterías - Charles Darwin,Reserva Natural de la Defensa,Baterías - Charles Darwin,2,2,17,SIB/IGN/Protocolo adicional Nº 08/2013,IGN,10113
+-39.3331640345,-61.9441313203317,5,falso,Área protegida,"Reserva Natural Provincial de Uso Múltiple Bahía Blanca, Bahía Falsa y Bahía Verde",Reserva Natural Provincial de Uso Múltiple,"Bahía Blanca, Bahía Falsa y Bahía Verde",2,3,17,SIB/IGN/Ley Provincial Nº 12.101/OPDS,IGN,2563758
+-35.795707021,-69.8153437227291,265,falso,Área protegida,Reserva Natural Caverna de las Brujas,Reserva Natural,Caverna de las Brujas,2,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 5.544/1990,IGN,1305
+-33.8325567174999,-59.4064497641938,94,falso,Área protegida,Reserva Natural Provincial de Objetivo Definido Botánico Barranca Norte,Reserva Natural Provincial de Objetivo Definido,Barranca Norte,2,3,17,SIB/IGN/Decreto Provincial Nº 469/2011,IGN,1054
+-38.616454478,-63.0802780368714,95,falso,Área protegida,Reserva Natural Provincial de Objetivos Definidos Mixtos Laguna Chasicó,Reserva Natural Provincial de Objetivos Definidos,Chasicó,2,3,17,SIB/IGN/Ley Provincial Nº 12.353/1999,IGN,78258
+-27.4023237999999,-55.2031675342914,102,falso,Área protegida,Parque Natural Municipal Paraje los Indios,Parque Natural Municipal,Paraje los Indios,1,4,17,,MAyDS,206
+-41.0200325835,-64.1605458721605,6,falso,Área protegida,Reserva de Uso Múltiple Caleta de los Loros,Reserva de Uso Múltiple,Caleta de los Loros,2,3,17,SIB/IGN/Ley Provincial Nº 3.222/1998,IGN,90786
+-41.159285985,-63.129686335592,7,falso,Área protegida,Reserva Faunística Provincial Punta Bermeja,Reserva Faunística Provincial,Punta Bermeja,2,3,17,SIB/IGN/Decreto Provincial Nº 898/1971,IGN,18968
+-49.2752990709999,-67.7150381654083,11,falso,Área protegida,Área de Uso Limitado Bajo Protección Especial Islas Cormorán y Justicia,Área de Uso Limitado Bajo Protección Especial,Islas Cormorán y Justicia,2,3,17,SIB/IGN/DFS 15/1990,IGN,5256
+-38.1167976654999,-57.5326611869683,12,falso,Área protegida,Reserva Natural Provincial de Objetivos Definidos Mixtos Restinga del Faro,Reserva Natural Provincial de Objetivos Definidos,Restinga del Faro,2,3,17,SIB/IGN/Decreto Provincial Nº 469/2011,IGN,7062
+-55.1663856934999,-59.8749999999999,14,falso,Área protegida,Área Marina Protegida Namuncurá - Banco Burdwood II,Área Marina Protegida,Namuncurá - Banco Burdwood II,2,2,17,,MAyDS,25855332
+-54.2930702314999,-59.1874354675955,15,falso,Área protegida,Área Marina Protegida Namuncurá - Banco Burdwood,Área Marina Protegida,Namuncurá - Banco Burdwood,2,2,17,SAyDS/IGN/Ley Nacional Nº 27.490/18,IGN,30740644
+-27.47445516,-55.1394865795263,103,falso,Área protegida,Reserva Ecológica Mbotabyq,Reserva Ecológica,Mbotaby,2,4,17,,MAyDS,132
+-49.32781636,-67.6554829918567,8,falso,Área protegida,Reserva Provincial Península de San Julián,Reserva Provincial,Península de San Julián,2,3,17,SIB/IGN/Ley Provincial Nº 1.821/1986,IGN,74177
+-54.8095328685,-64.4693651746973,9,falso,Área protegida,Reserva Natural Silvestre Isla de los Estados y Archipiélago de Año Nuevo,Reserva Natural Silvestre,Isla de los Estados y Archipiélago de Año Nuevo,2,2,17,SIB/IGN/Decreto Nacional Nº 929/2016,IGN,502056
+-49.5053628405,-67.6119454336033,10,falso,Área protegida,Parque Interjurisdiccional Marino Makenke,Parque Interjurisdiccional Marino,Makenke,1,2,17,SIB/IGN/Ley Nacional Nº 26.817/20112,IGN,724509
+-46.50063051,-67.4617595417038,13,falso,Área protegida,Reserva Provincial Caleta Olivia,Reserva Provincial,Caleta Olivia,2,4,17,,MAyDS,1027
+-56.6900008745,-65.6333342510003,16,falso,Área protegida,Área Marina Protegida Yaganes,Área Marina Protegida,Yaganes,2,2,17,,MAyDS,58234860
+-46.4122422155,-67.5323769873226,17,falso,Área protegida,Reserva Provincial Municipal Humedal Caleta Olivia,Reserva Provincial Municipal,Humedal Caleta Olivia,2,4,17,SIB/IGN/Disposición Provincial Nº 14/1989,IGN,2737
+-46.749429894,-67.0756298937352,18,falso,Área protegida,Reserva Natural Provincial Barco Hundido,Reserva Natural Provincial,Barco Hundido,2,3,17,SIB/IGN/Decreto Provincial Nº 1.561/1977,IGN,111322
+-40.8644466025,-71.338415202249,337,falso,Área protegida,Parque Nacional Nahuel Huapi,Parque Nacional,Nahuel Huapi,1,2,17,,IGN,4783064
+-41.3560691519999,-71.3798516763387,338,falso,Área protegida,Reserva Nacional Nahuel Huapi,Reserva Nacional,Nahuel Huapi,2,2,0,,IGN,2376718
+-47.1951519499999,-65.77037773006,19,falso,Área protegida,Reserva Natural Provincial Cabo Blanco,Reserva Natural Provincial,Cabo Blanco,2,3,17,SIB/IGN/Decreto Provincial Nº 1.561/1977,IGN,36568
+-47.8024465325,-66.102315252898,20,falso,Área protegida,Reserva Natural Provincial Ría de Puerto Deseado,Reserva Natural Provincial,Ría de Puerto Deseado,2,3,17,SIB/IGN/Decreto Provincial Nº 1.561/1977,IGN,75554
+-49.346191406,-67.768022497286,21,falso,Área protegida,Área de Uso Limitado Bajo Protección Especial Bahía San Julián,Área de Uso Limitado Bajo Protección Especial,Bahía San Julián,2,3,17,SIB/IGN/Decreto Provincial Nº 1.561/1977,IGN,28524
+-47.082512241,-66.3266260357837,22,falso,Área protegida,Área de Uso Científico Monte Loayza,Área de Uso Científico,Monte Loayza,2,3,17,SIB/IGN/Disposición Provincial Nº 14/1989,IGN,124095
+-41.871517185,-64.9134905133309,23,falso,Área protegida,Área Natural Protegida Puerto Lobos,Área Natural Protegida,Puerto Lobos,2,3,17,SIB/IGN/Ley Provincial Nº 3.211/1998,IGN,621284
+-42.755007748,-64.269212057579,24,falso,Área protegida,Reserva de Biósfera Península Valdés,Reserva de Biósfera,Península Valdés,2,3,17,SIB/IGN/UNESCO,IGN,19355132
+-42.4744527599999,-64.0499269829172,25,falso,Área protegida,Reserva Natural Turística de Objetivo Integral Península Valdés,Reserva Natural Turística de Objetivo Integral,Península Valdés,2,3,17,SIB/IGN/Ley XXIII -Nº 12,IGN,3913939
+-42.3368312509999,-64.3121959617104,26,falso,Área protegida,Parque Marino Provincial Golfo San José,Parque Marino Provincial,Golfo San José,1,3,17,SIB/IGN/Ley XXIII - Nº 12,IGN,826575
+-43.0571890175,-64.4466997677364,34,falso,Área protegida,Reserva Natural Turística Punta León,Reserva Natural Turística,Punta León,2,3,17,SIB/IGN/Ley Provincial Nº 2.580/1985,IGN,3412
+-25.990406884,-54.0851772201382,69,falso,Área protegida,Reserva de Vida Silvestre Urugua-í,Reserva de Vida Silvestre,Urugua-í,2,5,3,SIB/IGN/Fundación Vida Silvestre,IGN,31493
+-42.168173133,-71.6916043620026,339,falso,Área protegida,Parque Nacional Lago Puelo,Parque Nacional,Lago Puelo,0,2,17,SIB/IGN/Decreto Nacional Nº 19.292/1971,IGN,189193
+-36.4081387839999,-68.0307997042336,80,falso,Área protegida,Reserva Natural La Humada,Reserva Natural,La Humada,2,3,17,SIB/IGN/Decreto Provincial Nº 417/1974,IGN,60500
+-26.3359488299999,-54.3738473193673,104,falso,Área protegida,Refugio Privado de Vida Silvestre Lapacho Cué,Refugio Privado de Vida Silvestre,Lapacho Cué,2,5,3,,MAyDS,1617
+-42.8260202875,-64.9048081733039,27,falso,Área protegida,Reserva Natural Turística Punta Loma,Reserva Natural Turística,Punta Loma,2,3,17,SIB/IGN/Ley Provincial Nº 697/1967,IGN,16507
+-40.8281662094999,-64.992372050447,28,falso,Área protegida,Área Provincial Natural Protegida de Bahía San Antonio,Área Provincial Natural Protegida,de Bahía San Antonio,2,3,17,SIB/IGN/Ley Provincial Nº 2.670/1993,IGN,684954
+-42.6467017065,-64.191524609028,29,falso,Área protegida,Sitio Ramsar Humedales Península de Valdés,Sitio Ramsar,Humedales Península de Valdés,2,2,17,SAyDS/IGN/Ramsar,IGN,438346
+-42.217717841,-64.1848416927403,30,falso,Área protegida,Reserva Natural de la Defensa Punta Buenos Aires,Reserva Natural de la Defensa,Punta Buenos Aires,2,2,17,SIB/IGN/Protocolo adicional Nº 01/2008,IGN,80078
+-44.62006151,-65.6099698159463,31,falso,Área protegida,Reserva de Biósfera Patagonia Azul,Reserva de Biósfera,Patagonia Azul,2,3,17,IGN/UNESCO,IGN,30553073
+-45.0795260705,-66.2377199519975,32,falso,Área protegida,Parque Interjurisdiccional Marino Costero Patagonia Austral,Parque Interjurisdiccional Marino Costero,Patagonia Austral,1,2,17,SIB/IGN/Ley Nacional Nº 26.446/2009,IGN,1049129
+-44.049357108,-65.2192255671682,33,falso,Área protegida,Reserva Natural Turística de Objetivo Específico Punta Tombo,Reserva Natural Turística de Objetivo Específico,Punta Tombo,2,2,17,SIB/IGN/Ley Provincial Nº XXIII - Nº 12,IGN,2370
+-26.0530102895,-54.35610630755,48,falso,Área protegida,Parque Provincial Esperanza,Parque Provincial,Esperanza,1,3,17,SIB/IGN/Ley Provincial Misiones Nº 2.876,IGN,6709
+-42.22299075,-71.7294059184412,340,falso,Área protegida,Reserva Nacional Lago Puelo,Reserva Nacional,Lago Puelo,2,2,17,SIB/IGN/Decreto Nacional Nº 19.292/1971,IGN,83516
+-44.9146545515,-65.5514554822304,35,falso,Área protegida,Reserva Natural Turística de Objetivo Integral Cabo dos Bahías,Reserva Natural Turística de Objetivo Integral,Cabo dos Bahías,2,3,17,SIB/IGN/Ley Provincial Nº XXIII - Nº 12,IGN,2579
+-47.0889029625,-66.3323602013945,36,falso,Área protegida,Reserva Provincial Monte Loayza,Reserva Provincial,Monte Loayza,2,3,17,SIB/IGN/Ley Provincial Nº 2.828,IGN,76062
+-26.0711529485,-54.4112397720608,49,falso,Área protegida,Refugio Privado de Vida Silvestre Aguaray-mí,Refugio Privado de Vida Silvestre,Aguaray-mí,2,5,3,SIB/IGN/Decreto Provincial Nº 1.531/1988,IGN,32684
+-26.683062079,-54.7711486826955,50,falso,Área protegida,Refugio de Vida Silvestre Timbó Gigante,Refugio de Vida Silvestre,Timbó Gigante,2,5,3,SIB/IGN/Ministerio de Ecología Misiones,IGN,1397
+-38.7282900179999,-59.3102797687262,37,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple Arroyo Zabala,Reserva Natural Provincial de Uso Múltiple,Arroyo Zabala,2,3,17,SIB/IGN/OPDS,IGN,23786
+-48.3894976375,-66.4734023049656,38,falso,Área protegida,Reserva Natural Provincial Bahía Laura,Reserva Natural Provincial,Bahía Laura,2,3,17,SIB/IGN/Decreto Provincial Nº 1.561/1977,IGN,51895
+-40.3080414255,-62.1695665254501,39,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple y Refugio de Vida Silvestre Bahía San Blas,Reserva Natural Provincial y Refugio,Bahía San Blas,2,3,17,SIB/IGN/Ley Provincial Nº 12.788/2001,IGN,5193196
+-48.0932001159999,-65.8173931831073,40,falso,Área protegida,Reserva Provincial y Parque Interjurisdiccional Marino Isla Pingüinos,Reserva Provincial y Parque Natural,Isla Pingüinos,2,3,17,SIB/IGN/Ley Nacional Nº 26.818/2012,IGN,1579355
+-26.4391164984999,-54.4821581974229,51,falso,Área protegida,Refugio Privado Itacuarahy,Refugio Privado,Itacuarahy,2,5,3,SIB/IGN/Ministerio de Ecología Misiones,IGN,2436
+-27.4580784405,-54.6899880332201,52,falso,Área protegida,Refugio Privado de Vida Silvestre Chancay,Refugio Privado de Vida Silvestre,Chancay,2,5,3,SIB/IGN/Convenio Privado,IGN,2657
+-38.2327546174999,-67.2091007530135,81,falso,Área protegida,Reserva Provincial Natural Embalse Casa de Piedra,Reserva Provincial Natural,Embalse Casa de Piedra,2,3,17,SIB/IGN/Mapa Provincial IGN La Pampa,IGN,89439
+-27.014471775,-54.9114180444164,41,falso,Área protegida,Parque Provincial Salto Encantado del Valle del Arroyo Cuñá Pirú,Parque Provincial,Salto Encantado del Valle del Arroyo Cuñá Pirú,1,3,17,SIB/IGN/Decreto Provincial Nº 1.193/1989/Ley Provincial Nº 4.239/2005,IGN,132855
+-26.210383659,-54.6067193756951,42,falso,Área protegida,Reserva Privada Santa María del Aguaray Miní,Reserva Privada,Santa María del Aguaray Miní,2,5,3,SIB/IGN/Decreto Provincial Nº 734/1999,IGN,236
+-25.861159856,-53.8929171001398,43,falso,Área protegida,Parque Provincial Guardaparque Horacio Foerster,Parque Provincial,Guardaparque Horacio Foerster,1,3,17,SIB/IGN/Decreto Provincial Nº 557/1992,IGN,41638
+-26.5208879154999,-53.9941881090043,44,falso,Área protegida,Parque Provincial Cruce Caballero,Parque Provincial,Cruce Caballero,1,3,17,SIB/IGN/Ley Provincial Nº 2876,IGN,5368
+-26.6309552024999,-54.1002943174416,45,falso,Área protegida,Parque Provincial de la Araucaria,Parque Provincial,de la Araucaria,1,3,17,SIB/IGN/Ley Provincial Nº 2.876,IGN,918
+-25.6281843649999,-54.5532013462011,46,falso,Área protegida,Paisaje Protegido Andrés Giai (Refugio de Animales Silvestres Güirá Oga),Paisaje Protegido,Andrés Giai (Refugio de Animales Silvestres Güirá Oga),2,5,3,SIB/IGN/Ley Provincial Nº 3.468/1997,IGN,117
+-26.9781503419999,-53.9272730960373,111,falso,Área protegida,Parque Provincial Esmeralda,Parque Provincial,Esmeralda,1,3,17,SIB/IGN/Ley Provincial Nº 2.939/1992,IGN,312752
+-26.4615712374999,-54.3361588519855,53,falso,Área protegida,Reserva Privada Tomo,Reserva Privada,Tomo,2,5,3,SIB/IGN/Decreto Provincial Nº 219/1997,IGN,15097
+-26.0217449934999,-54.6105887790241,54,falso,Área protegida,Parque Natural Municipal Yarará,Parque Natural Municipal,Yarará,1,4,17,SIB/IGN/Ordenaza Municipal Nº 24/1995,IGN,104
+-26.9315437949999,-54.4227805589527,55,falso,Área protegida,Reserva de Uso Múltiple Cuartel Victoria,Reserva de Uso Múltiple,Cuartel Victoria,2,3,17,SIB/IGN/Resolución INTA Nº 07/92,IGN,4382
+-25.72923834,-53.996076310432,56,falso,Área protegida,Monumento Natural Ingeniero Florencio de Basaldúa,Monumento Natural,Ingeniero Florencio de Basaldúa,3,3,17,SIB/IGN/Ley provincial Nº 3.376/1996,IGN,2495
+-27.1913922735,-55.1561210008395,57,falso,Área protegida,Reserva Privada El Paraíso,Reserva Privada,El Paraíso,2,5,3,SIB/IGN/Resolución Nº 201/1998,IGN,4382
+-26.6945346629999,-54.2753306432563,58,falso,Área protegida,Reserva de Vida Silvestre Yaguaroundí,Reserva de Vida Silvestre,Yaguaroundí,2,5,3,SIB/IGN/Decreto Provincial Nº 1.847/1999,IGN,4026
+-25.7941075634999,-54.067225716646,66,falso,Área protegida,Refugio Privado de Vida Silvestre Caá Porá,Refugio Privado de Vida Silvestre,Caá Porá,2,5,3,SIB/IGN/Fundación Vida Silvestre,IGN,409
+-25.9467525695,-54.0998861156291,67,falso,Área protegida,Parque Provincial Urugua-í,Parque Provincial,Urugua-í,1,3,17,SIB/IGN/Decreto Provincial Nº 399/1988,IGN,850736
+-25.8290311645,-54.1911101986761,68,falso,Área protegida,Parque Provincial Uruzú,Parque Provincial,Uruzú,1,3,17,SIB/IGN/Ley Provincial Nº 4.107/2004,IGN,25616
+-27.2829629075,-55.5921908437555,59,falso,Área protegida,Parque Provincial Teyú Cuaré,Parque Provincial,Teyú Cuaré,1,3,17,SIB/IGN/Ley Provincial Misiones Nº 2.876,IGN,794
+-27.7431759525,-55.5563434967903,60,falso,Área protegida,Parque Provincial de la Sierra Ingeniero Raúl Martínez Crovetto,Parque Provincial,de la Sierra Ingeniero Raúl Martínez Crovetto,1,3,17,SIB/IGN/Ley Provincial Nº 3.221/96,IGN,10221
+-27.659923078,-55.4407709541703,61,falso,Área protegida,Reserva de Uso Múltiple Cerro Azul,Reserva de Uso Múltiple,Cerro Azul,2,3,17,SIB/IGN/Resolución INTA 07/1992,IGN,3846
+-27.408526498,-55.1638270122148,62,falso,Área protegida,Parque Municipal Amado Bonpland,Parque Municipal,Amado Bonpland,1,4,17,SIB/IGN/Ordenanza Municipal Nº 13/1989,IGN,48
+-26.3725930474999,-53.9971088484466,63,falso,Área protegida,Reserva Privada Julián Freaza,Reserva Privada,Julián Freaza,2,5,3,SIB/IGN/Decreto Provincial Nº 1.584/2003,IGN,6016
+-27.119553548,-54.9643192167133,64,falso,Área protegida,Reserva Privada Valle del Arroyo Cuñá Pirú,Reserva Privada,Valle del Arroyo Cuñá Pirú,2,5,3,SIB/IGN/Convenio M.E.R.N.R. y T.,IGN,54920
+-27.1764232095,-54.0915062422638,71,falso,Área protegida,Refugio Privado de Vida Silvestre San Miguel de la Frontera Premidia S.A.,Refugio Privado de Vida Silvestre,San Miguel de la Frontera Premidia S.A.,2,5,3,SIB/IGN/Convenio Propietario/Provincia Nº 92/1993,IGN,52091
+-38.044545131,-62.0220953366427,72,falso,Área protegida,Parque Provincial Ernesto Tornquist - Sierra de la Ventana,Parque Provincial,Ernesto Tornquist - Sierra de la Ventana,1,3,17,SIB/IGN/OPDS,IGN,70260
+-35.2307671834999,-58.6489243212446,73,falso,Área protegida,Reserva Natural Municipal Guardia del Juncal,Reserva Natural Municipal,Guardia del Juncal,2,4,17,SIB/IGN/ Ley Provincial Nº 13.530,IGN,1304
+-36.937886169,-66.4910282534108,74,falso,Área protegida,Reserva Provincial Natural Limay Mahuida,Reserva Provincial Natural,Limay Mahuida,2,3,17,SIB/IGN/Decreto Provincial Nº 417/1974,IGN,71735
+-36.9059768864999,-64.2416191698527,75,falso,Área protegida,Reserva Provincial de Flora y Fauna Parque Luro,Reserva Provincial de Flora y Fauna,Parque Luro,2,3,17,SIB/IGN/Decreto Provincial Nº 1.128/1967,IGN,96772
+-37.3137039115,-66.2195780024581,76,falso,Área protegida,Reserva Provincial Natural La Reforma,Reserva Provincial Natural,La Reforma,2,3,17,SIB/IGN/Decreto Provincial Nº 417/1974,IGN,82908
+-27.5548263794999,-55.709419562866,77,falso,Área protegida,Parque Provincial Cañadón de Profundidad,Parque Provincial,Cañadón de Profundidad,1,3,17,SIB/IGN/Ley Provincial Misiones Nº 2.876,IGN,447
+-27.6361981729999,-55.7294543492385,78,falso,Área protegida,Parque Provincial Fachinal,Parque Provincial,Fachinal,1,3,17,SIB/IGN/Ley Provincial Nº 3.358/1996,IGN,458
+-27.6201721794999,-55.7174284458125,79,falso,Área protegida,Reserva Privada Tupá Pojá,Reserva Privada,Tupá Pojá,2,5,3,SIB/IGN/Decreto Provincial Nº 749/2006,IGN,446
+-26.01416951,-53.7909397257891,83,falso,Área protegida,Reserva Natural Estricta San Antonio,Reserva Natural Estricta,Estricta San Antonio,2,2,17,SIB/IGN/Decreto Nacional Nº 2.149/1990,IGN,4786
+-34.8208007825,-58.0961179642021,84,falso,Área protegida,Reserva de Biósfera Pereyra Iraola,Reserva de Biósfera,Pereyra Iraola,2,3,17,SIB/IGN/UNESCO,IGN,102958
+-27.361071155,-55.910982369843,85,falso,Área protegida,Reserva Privada Rincón Nazarí,Reserva Privada,Rincón Nazarí,2,5,3,SIB/IGN/Decreto Provincial Nº 169/2003,IGN,49
+-25.887119102,-54.4196878450968,86,falso,Área protegida,Paisaje Protegido Lago Urugua-í,Paisaje Protegido,Lago Urugua-í,2,3,17,SIB/IGN/Ley Provincial Nº 3.302/1996,IGN,120142
+-27.0926590674999,-54.5872886884102,87,falso,Área protegida,Reserva de Uso Múltiple Alejandro Orloff - Saltitos,Reserva de Uso Múltiple,Alejandro Orloff - Saltitos,2,3,17,SIB/IGN/Ley Provincial Nº 3.447/1997,IGN,2278
+-34.1839009945,-58.2508401560269,88,falso,Área protegida,Reserva Natural de Uso Múltiple Isla Martín García,Reserva Natural de Uso Múltiple,Isla Martín García,2,3,17,SIB/IGN/Ley Provincial Nº 7.580/1969,IGN,1935
+-34.4686986725,-58.4942951386013,90,falso,Área protegida,Parque Natural Municipal Ribera Norte,Parque Natural Municipal,Ribera Norte,2,4,17,IGN/Portal Web de la Municipalidad,IGN,140
+-34.4138835,-58.9171284874427,91,falso,Área protegida,Reserva Natural Municipal del Pilar,Reserva Natural Municipal,del Pilar,2,4,17,IGN/Ordenanza Municipal Nº 44/1991,IGN,2190
+-37.9352549804999,-65.6041157758969,92,falso,Área protegida,Parque Nacional Lihuel Calel,Parque Nacional,Lihuel Calel,1,2,17,SIB/IGN/Decreto Nacional Nº 609/1976,IGN,327341
+-29.8347296909999,-58.5835519424135,172,falso,Área protegida,Reserva Natural Provincial Rincón de Santa María,Reserva Natural Provincial,Rincón de Santa María,2,4,17,,MAyDS,71378
+-37.7103961494999,-63.5230190113007,93,falso,Área protegida,Reserva Provincial Natural Laguna de Guatraché,Reserva Provincial Natural,Laguna de Guatraché,2,3,17,SIB/IGN/Ley Provincial Nº 1.353/1991,IGN,54620
+-34.703822167,-58.9030147071878,96,falso,Área protegida,Reserva Natural Provincial de Objetivo Definido Educativo Arroyo El Durazno,Reserva Natural Provincial de Objetivo Definido,Arroyo El Durazno,2,3,17,SIB/IGN/OPDS/Decreto Pcial. Nº 469/2011,IGN,4433
+-26.4538651394999,-53.8072930991468,97,falso,Área protegida,Parque Provincial Piñalito,Parque Provincial,Piñalito,1,3,17,SIB/IGN/Ley Provincial Nº 3.467/1997,IGN,37868
+-35.044805525,-58.5112676693522,98,falso,Área protegida,Reserva Natural Objetivo Definido Educativo Lagunas de San Vicente,Reserva Natural Municipal,Lagunas de San Vicente,2,4,17,,MAyDS,7187
+-36.789083786,-66.8664750869093,100,falso,Área protegida,Reserva Natural Ñochilei-co,Reserva Natural,Ñochilei-co,2,2,17,,MAyDS,247695
+-37.3635583299999,-67.0526966956151,101,falso,Área protegida,Reserva Natural Salitral Encantado,Reserva Natural,Salitral Encantado,2,2,17,,MAyDS,968644
+-25.7036618954999,-54.6088344282598,105,falso,Área protegida,Reserva Natural de la Defensa Puerto Península,Reserva Natural de la Defensa,Puerto Península,2,2,17,SIB/IGN/Protocolo adicional Nº 02/2008,IGN,83625
+-26.9102711634999,-53.9964803401631,106,falso,Área protegida,Reserva de Biósfera Yabotí,Reserva de Biósfera,Yabotí,2,3,17,SIB/IGN/Ley Provincial Nº 3.041/1993/Cancillería,IGN,2294965
+-25.5478853894999,-54.1239121092262,107,falso,Área protegida,Parque Provincial Grupo de la Isla Grande del Iguazú Superior,Parque Provincial,Grupo de la Isla Grande del Iguazú Superior,1,3,17,SIB/IGN/Ley Provincial Nº 4.203/2005,IGN,192
+-25.50206629,-54.1076060972777,108,falso,Área protegida,Parque Provincial Ingeniero Agrónomo Roberto Cametti,Parque Provincial,Ingeniero Agrónomo Roberto Cametti,1,3,17,SIB/IGN/Ley Provincial Nº 3.662/2001,IGN,1303
+-29.1642303775,-69.4924506887765,374,falso,Área protegida,Reserva Provincial de Biósfera San Guillermo,Reserva Provincial de Biósfera,San Guillermo,2,3,17,SIB/IGN/Decreto Provincial San Juan Nº 2.164/72,IGN,9467763
+-25.590763312,-54.1585677719636,109,falso,Área protegida,Reserva Natural Silvestre Alto Iguazu,Reserva Natural Silvestre,Alto Iguazu,2,3,17,,MAyDS,655
+-25.7043100559999,-54.5309445382912,110,falso,Área protegida,Parque Provincial Puerto Península,Parque Provincial,Puerto Península,1,3,17,SIB/IGN/Ley Provincial Nº 4.047/2004,IGN,69853
+-26.934023166,-54.2387102660685,112,falso,Área protegida,Reserva Forestal Guaraní,Reserva Forestal,Guaraní,2,3,17,SIB/IGN/Decreto-Ley Provincial Nº 26/1975,IGN,52155
+-36.7596873815,-56.9712892623515,116,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple Laguna Salada Grande,Reserva Natural Provincial de Uso Múltiple,Laguna Salada Grande,2,3,17,SIB/IGN/Ley Provincial Nº 12.594,IGN,2859775
+-26.992907434,-54.1935040529174,113,falso,Área protegida,Reserva Natural y Cultural Papel Misionero,Reserva Natural y Cultural,Papel Misionero,2,3,17,SIB/IGN/Ley Provincial Nº 3256/1995,IGN,104807
+-33.8842911184999,-59.0271424335704,114,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple Isla Botija,Reserva Natural Provincial de Uso Múltiple,Isla Botija,2,3,17,SIB/IGN/Decreto Provincial Nº 5.421/1958,IGN,48267
+-35.7246827985,-57.3701096384338,115,falso,Área protegida,Reserva Natural Provincial Integral y de Objetivo Definido Bahía de Samborombón,Reserva Natural Provincial Integral y de Objetivo,Bahía de Samborombón,2,3,17,SIB/IGN/Ley Provincial Nº 12.016/1997,IGN,3990013
+-27.317527543,-58.9507117146234,153,falso,Área protegida,Reserva Natural Educativa Colonia Benítez,Reserva Natural Educativa,Colonia Benítez,2,2,17,SIB/IGN/Decreto Nacional Nº 2.149/1990,IGN,75
+-25.4388575945,-61.8172434676966,202,falso,Área protegida,Parque Natural Provincial Loro Hablador,Parque Natural Provincial,Loro Hablador,1,3,17,IDE CHACO/IGN/SIB/Decreto Provincial Nº 2.387/1998,IGN,190862
+-38.8046914265,-64.8600444669238,117,falso,Área protegida,Reserva Natural Pichi Mahuida,Reserva Natural,Pichi Mahuida,2,3,17,SIB/IGN/Decreto Provincial Nº 417/1974,IGN,70207
+-25.6821054929999,-54.4759480563364,118,falso,Área protegida,Reserva Nacional Iguazú,Reserva Nacional,Iguazú,2,2,17,SIB/IGN/Ley Nacional Nº 12.103/1934,IGN,71884
+-27.1252035675,-55.5611253363582,120,falso,Área protegida,Reserva Natural Íctica Corpus,Reserva Natural Íctica,Corpus,2,3,17,SIB/IGN/Decreto Provincial Nº 3.271/1979,IGN,8731
+-27.477359094,-55.091968523076,121,falso,Área protegida,Refugio Privado de Vida Silvestre Chachi,Refugio Privado de Vida Silvestre,Chachi,2,5,3,SIB/IGN/Convenio Propietario/Fundación,IGN,178
+-25.6465600534999,-54.2842373224101,119,falso,Área protegida,Parque Nacional Iguazú,Parque Nacional,Iguazú,1,2,17,SIB/IGN/Ley Nacional Nº 12.103/1934,IGN,513122
+-25.594299071,-54.5769659181938,122,falso,Área protegida,Parque Natural Municipal Luis Honorio Rolón,Parque Natural Municipal,Luis Honorio Rolón,1,4,17,SIB/IGN/Ordenanza Municipal Nº 27-20/1996,IGN,134
+-26.9502222465,-54.5485859269615,123,falso,Área protegida,Reserva Privada La Ponderosa,Reserva Privada,La Ponderosa,2,5,3,SIB/IGN/Decreto Provincial Nº 1.371/2002,IGN,1989
+-25.602309165,-54.1543969183165,124,falso,Área protegida,Parque Provincial Yacuy,Parque Provincial,Yacuy,1,3,17,SIB/IGN/SIB/IGN/Ley Provincial Misiones Nº 2876,IGN,3361
+-26.537453193,-58.2261647228749,125,falso,Área protegida,Reserva de Pesca Boca de la Laguna Herradura,Reserva de Pesca,Boca de la Laguna Herradura,2,3,17,SIB/IGN/Ministerio de la Producción y Ambiente Pcial.,IGN,1146
+-31.33536134,-60.6382843363189,177,falso,Área protegida,Reserva Privada de Uso Múltiple Estancia Santa Catalina,Reserva Privada de Uso Múltiple,Estancia Santa Catalina,2,5,3,,MAyDS,10143
+-26.6547746725,-58.2652184622939,126,falso,Área protegida,Reserva de Pesca Arroyo Ramírez,Reserva de Pesca,Arroyo Ramírez,2,3,17,SIB/IGN/Ministerio de la Producción y Ambiente Pcial.,IGN,1867
+-27.4888018559999,-56.8724760401654,128,falso,Área protegida,Reserva Natural Provincial Apipé Grande,Reserva Natural Provincial,Apipé Grande,2,3,17,SIB/IGN/Ley Provincial Nº 4.788/1994,IGN,47436
+-49.0871352539999,-72.9177846515,129,falso,Área protegida,Reserva Provincial Lago del Desierto,Reserva Provincial,Lago del Desierto,2,3,17,SIB/IGN/Ley Provincial Nº Ley Nº 2.820,IGN,561950
+-54.5089276885,-67.2853193751764,130,falso,Área protegida,Reserva Provincial de Uso Múltiple Laguna Negra,Reserva Provincial de Uso Múltiple,Laguna Negra,2,3,17,SIB/IGN/Ley Provincial Nº 599,IGN,13394
+-49.6641246649999,-71.3227081405544,188,falso,Área protegida,Reserva Natural Provincial Bosque Petrificado Ea. La Urbana,Reserva Natural Provincial,Bosque Petrificado Ea. La Urbana,2,4,17,,MAyDS,320789
+-54.6046726539999,-67.2761423087581,131,falso,Área protegida,Reserva Provincial de Uso Múltiple Río Valdez,Reserva Provincial de Uso Múltiple,Río Valdez,2,3,17,SIB/IGN/Ley Provincial Nº 600/2003,IGN,27428
+-30.7514549755,-58.9195636960612,132,falso,Área protegida,Reserva de Uso Múltiple El Gato y Lomas Limpias,Reserva de Uso Múltiple,El Gato y Lomas Limpias,2,3,17,SIB/IGN/Ley Provincial Nº 9.706/2006,IGN,997755
+-31.838341397,-60.5248842446154,133,falso,Área protegida,Reserva de Uso Múltiple Escuela Rural Juan B. Alberdi,Reserva de Uso Múltiple,Escuela Rural Juan B. Alberdi,2,3,17,SIB/IGN/Resolución Subsecretaría de Asuntos Agrarios 37/1992,IGN,150
+-31.7439426625,-60.3279641693699,134,falso,Área protegida,Parque Escolar Rural Enrique Berduc - Parque General San Martín,Parque Escolar Rural,Enrique Berduc - Parque General San Martín,1,3,17,SIB/IGN/Ley Provincial Nº Ley N° 8.967,IGN,5639
+-33.1279335,-63.5607207130702,135,falso,Área protegida,Reserva Natural de Fauna Laguna La Felipa,Reserva Natural de Fauna,Laguna La Felipa,2,3,17,SIB/IGN/Decreto Reglamentario Nº 3.610/1986,IGN,12761
+-32.2754994834999,-60.7043255605843,199,falso,Área protegida,Parque Nacional Islas de Santa Fe,Parque Nacional,Islas de Santa Fe,1,2,17,SIB/IGN/Ley Nacional Nº 26.648/2010,IGN,35210
+-25.1460201739999,-61.6876243244984,203,falso,Área protegida,Parque Natural Provincial Fuerte Esperanza,Parque Natural Provincial,Fuerte Esperanza,1,3,17,IDE CHACO/IGN/SIB,IGN,104911
+-30.078606352,-63.9399095658053,136,falso,Área protegida,Reserva Cultural y Natural Cerro Colorado,Reserva Cultural y Natural,Cerro Colorado,2,3,17,SIB/IGN/Decreto-Ley Provincial Nº 2.821/1992,IGN,28154
+-31.1521405955,-64.3845138797269,137,falso,Área protegida,Reserva Hídrica Natural La Quebrada,Reserva Hídrica Natural,La Quebrada,2,3,17,SIB/IGN/Decreto Reglamentario Nº 5.620/1987,IGN,42186
+-31.6858325,-64.807798310999,138,falso,Área protegida,Reserva Hídrica Provincial Pampa de Achala,Reserva Hídrica Provincial,Pampa de Achala,2,3,17,SIB/IGN/Decreto Provincial Nº 361/1999,IGN,1544801
+-31.370377415,-65.4433428235102,139,falso,Área protegida,Parque Natural Provincial y Reserva Forestal Chancaní,Parque Natural Provincial y Reserva Forestal,Chancaní,1,3,17,SIB/IGN/Decreto Reglamentario Nº 6.573/1986,IGN,50043
+-37.128165825,-70.5999230761248,140,falso,Área protegida,Monumento Natural Provincial Cañada Molina,Monumento Natural Provincial,Cañada Molina,3,3,17,SIB/IGN/Decreto Provincial Nº 2.356/1993,IGN,1702
+-48.4454694274999,-72.1099514400647,141,falso,Área protegida,Reserva Provincial Tucu - Tucu,Reserva Provincial,Tucu - Tucu,2,3,17,SIB/IGN/Ley Provincial Nº 2.905/2006,IGN,1824571
+-49.477217602,-71.5902387889958,142,falso,Área protegida,Reserva Provincial Pinturas Rupestres Río Chalia o Shehuen,Reserva Provincial,Pinturas Rupestres Río Chalia o Shehuen,2,3,17,SIB/IGN/Ley Provincial Nº 2.975/2007,IGN,132457
+-51.8369901424999,-70.57033440493,143,falso,Área protegida,Monumento Natural Provincial Bloque Errático,Monumento Natural Provincial,Bloque Errático,3,3,17,SIB/IGN/Ley Provincial Nº 3.070,IGN,26283
+-52.0337661945,-69.6190319222499,144,falso,Área protegida,Reserva Provincial Geológica Laguna Azul,Reserva Provincial Geológica,Laguna Azul,2,3,17,SIB/IGN/Ley Provincial Nº 2.828,IGN,13034
+-47.4081079004999,-71.1626713061621,154,falso,Área protegida,Parque Nacional Patagonia,Parque Nacional,Patagonia,1,2,17,SIB/IGN/Ley Nacional Nº 27.081/2015,IGN,524093
+-46.8507468419999,-67.8419361497327,145,falso,Área protegida,Reserva Hidrogeológica Meseta Espinosa y El Cordón,Reserva Hidrogeológica,Meseta Espinosa y El Cordón,2,3,17,SIB/IGN/Ley Provincial Nº 2.185,IGN,2635015
+-25.9697517929999,-58.1600619249461,146,falso,Área protegida,Centro Biológico de Fauna Silvestre Pilagá - Zoo,Centro Biológico de Fauna Silvestre,Pilagá - Zoo,2,3,17,SIB/IGN/Decreto Provincial Nº 908/1969,IGN,5957
+-25.609613537,-58.4524176129819,147,falso,Área protegida,Reserva de Caza Laguna Hú,Reserva de Caza,Laguna Hú,2,3,17,SIB/IGN/Decreto Provincial Nº 2.738/1970/IGN 2557 III,IGN,14308
+-24.7879083504999,-58.9389929420083,148,falso,Área protegida,Reserva de Caza de Fauna Silvestre Agua Dulce,Reserva de Caza,Agua Dulce,2,3,17,SIB/IGN/Decreto Provincial Nº 2.192/1970,IGN,79300
+-40.6535253995,-66.19113978475,149,falso,Área protegida,Monumento Natural Bosque Petrificado Valcheta,Monumento Natural,Bosque Petrificado Valcheta,3,3,17,SIB/IGN/Ley Provincial Nº 3.689/2002,IGN,1641
+-27.591269493,-56.6971019010712,150,falso,Área protegida,Parque Municipal Zanjón de Loreto,Parque Municipal,Zanjón de Loreto,1,4,17,SIB/IGN/Ordenanza Municipal Nº 22/1999,IGN,12119
+-27.3646047114999,-58.8495240682371,151,falso,Área protegida,Sitio Ramsar Humedales Chaco,Sitio Ramsar,Humedales Chaco,2,2,17,SIB/IGN/Ramsar,IGN,4825488
+-47.6379433684999,-72.2819886324636,152,falso,Área protegida,Reserva Provincial San Lorenzo,Reserva Provincial,San Lorenzo,2,3,17,SIB/IGN/Ley Provincial Nº 2.334/1993,IGN,213348
+-28.0196689185,-58.0732316401245,156,falso,Área protegida,Parque Nacional Mburucuyá,Parque Nacional,Mburucuyá,1,2,17,SIB/IGN/Ley Nacional Nº 25.447/2001,IGN,177189
+-28.9087829599999,-60.1891702286724,158,falso,Área protegida,Reserva Natural de la Defensa Campo Garabato,Reserva Natural de la Defensa,Campo Garabato,2,2,17,SIB/IGN/Protocolo adicional Nº 06/2012,IGN,26548
+-26.570385824,-65.2069945981408,159,falso,Área protegida,Reserva Natural Aguas Chiquitas,Reserva Natural,Aguas Chiquitas,2,3,17,EDAMET/IGN/Decreto Provincial Nº 901/1982,IGN,33448
+-31.7155633195,-60.5215478776094,161,falso,Área protegida,Reserva Islote Municipal,Reserva,Islote Municipal,2,4,17,SIB/IGN/Decreto Municipal Nº 1.561/1995,IGN,163
+-33.6950320934999,-61.4802040118238,170,falso,Área protegida,Sitio Ramsar Humedal Laguna Melincue,Sitio Ramsar,Humedal Laguna Melincue,2,2,17,,MAyDS,937277
+-31.226930955,-60.1653413796782,178,falso,Área protegida,Parque Natural Provincial Cayastá,Parque Natural Provincial,Cayastá,1,3,17,,MAyDS,3702
+-31.2145511199999,-60.1583293079434,179,falso,Área protegida,Parque Arqueológico Santa Fe la Vieja,Parque Arqueológico,Santa Fe la Vieja,1,3,-1,,MAyDS,980
+-27.0274938285,-65.7692033887051,160,falso,Área protegida,Reserva Natural de la Defensa Quebrada del Portugués,Reserva Natural de la Defensa,Quebrada del Portugués,2,2,17,SIB/IGN/Protocolo Adicional Nº 9/2014,IGN,241877
+-27.496835705,-58.7180619576367,171,falso,Área protegida,Reserva Natural Provincial Laguna Brava,Reserva Natural Provincial,Laguna Brava,2,4,17,,MAyDS,798
+-54.8087909585,-68.2122870209618,162,falso,Área protegida,Reserva Cultural y Natural Playa Larga,Reserva Cultural y Natural,Playa Larga,2,3,17,SIB/IGN/Ley Provincial Nº 384/1997,IGN,632
+-25.6292636215,-61.6781161929965,163,falso,Área protegida,Reserva Provincial La Pirámide,Reserva Provincial,La Pirámide,2,3,17,IDE Chaco/IGN/Mapa Pcial. IGN,IGN,67269
+-34.5386470405,-58.4437413493414,166,falso,Área protegida,Reserva Ecológica Ciudad Universitaria - Costanera Norte,Reserva Ecológica,Ciudad Universitaria - Costanera Norte,2,4,17,IGN/Ley Nº 4.467 Legislatura Ciudad Autónoma de Buenos Aires,IGN,219
+-26.3100796574999,-58.802766192905,167,falso,Área protegida,Reserva Ecológica El Bagual,Reserva Ecológica,El Bagual,2,5,3,SIB/IGN/Convenio Propietario - Aves Argentinas,IGN,32249
+-28.5368438635,-57.1586352939792,168,falso,Área protegida,Sitios Ramsar Lagunas y Esteros del Iberá,Sitio Ramsar,Lagunas y Esteros del Iberá,2,2,17,,MAyDS,223389
+-30.797612825,-60.6386497923723,180,falso,Área protegida,Reserva Municipal San Justo,Reserva Municipal,San Justo,2,4,17,,MAyDS,140
+-29.1191880034999,-59.2757050591214,164,falso,Área protegida,Reserva Natural Municipal Isla de las Damas,Reserva Natural Municipal,Isla de las Damas,2,4,17,SIB/IGN/Ordenanza Municipal Nº 1.316,IGN,14345
+-50.3249292,-72.2692766277542,165,falso,Área protegida,Reserva Ecológica Municipal Laguna Nimez,Reserva Ecológica Municipal,Laguna Nimez,2,4,17,IGN/Portal web oficial de la municipalidad,IGN,565
+-33.5125139549999,-61.9094590386213,173,falso,Área protegida,Reserva Hídrica Natural Arroyo Saladillo	,Reserva Hídrica Natural,Arroyo Saladillo,2,3,17,,MAyDS,1879966
+-33.7041197304999,-61.142920523288,174,falso,Área protegida,Reserva Hídrica Natural Arroyo Sauce-Pavón,Reserva Hídrica Natural,Arroyo Sauce-Pavón,2,3,17,,MAyDS,799576
+-32.0137067699999,-61.4142418893422,175,falso,Área protegida,Reserva Privada de Uso Múltiple Federico Wildermuth,Reserva Privada de Uso Múltiple,Federico Wildermuth,2,5,3,,MAyDS,16481
+-31.3852352,-60.916275359601,176,falso,Área protegida,Reserva Universitaria de Recursos Granja Esperanza,Reserva Universitaria de Recursos,Granja Esperanza,2,-1,-1,,MAyDS,654
+-26.1902069319999,-60.051841425428,204,falso,Área protegida,Parque Natural Provincial Pampa del Indio,Parque Natural Provincial,Pampa del Indio,1,3,17,SIB/IGN/Decreto Provincial Nº 2.192/1970,IGN,222862
+-30.17668197,-61.0058776927724,181,falso,Área protegida,Reserva Natural Manejada El Fisco,Reserva Natural Manejada,El Fisco,2,2,17,,MAyDS,15932
+-29.88851508,-59.6818017796949,182,falso,Área protegida,Parque Natural Provincial Del Medio - Los Caballos,Parque Natural Provincial,Del Medio - Los Caballos,1,3,17,,MAyDS,16000
+-28.7785843799999,-61.0961907596672,183,falso,Área protegida,Reserva Privada de Uso Múltiple Isleta Linda,Reserva Privada de Uso Múltiple,Isleta Linda,2,5,3,,MAyDS,222381
+-29.31925,-60.2328818695374,184,falso,Área protegida,Reserva Natural Manejada Potrero 7b,Reserva Natural Manejada,Potrero 7b,2,2,17,,MAyDS,20149
+-28.8135416499999,-60.29841665,185,falso,Área protegida,Reserva Natural La Loca,Reserva Natural,La Loca,2,2,17,,MAyDS,21754
+-50.23684311,-72.18369822,186,falso,Área protegida,Área de Uso Limitado Bajo Protección Especial Isla Solitaria,Área de Uso Limitado Bajo Protección Especial,Isla Solitaria,2,3,17,,MAyDS,68904
+-46.666330445,-71.4805406541474,187,falso,Área protegida,Reserva Natural Silvestre La Ascensión,Reserva Natural Silvestre,La Ascensión,2,2,17,,MAyDS,145765
+-35.0148469124999,-68.8148123402981,266,falso,Área protegida,Reserva Natural Laguna La Salina,Reserva Natural,Laguna La Salina,2,3,17,SIB/IGN/Ley Provincial Nº 6.965,IGN,36872
+-25.0034366594999,-61.1100172826643,198,falso,Área protegida,Parque Nacional El Impenetrable,Parque Nacional,El Impenetrable,1,2,17,SIB/IGN/Ley Nacional Nº 26.996/2014,IGN,1278233
+-26.8599021064999,-58.3916692504409,205,falso,Área protegida,Reserva de Pesca Boca del Río Bermejo,Reserva de Pesca,Boca del Río Bermejo,2,3,17,SIB/IGN/Ministerio de la Producción y Ambiente Pcial.,IGN,3458
+-49.216305625,-73.0905006495744,189,falso,Área protegida,Reserva Natural Silvestre Piedra del Fraile,Reserva Natural Silvestre,Piedra del Fraile,2,2,17,,MAyDS,44829
+-23.7922596905,-61.1386707109412,190,falso,Área protegida,Reserva Natural Provincial Bañado la Estrella,Reserva Natural Provincial,Bañado la Estrella,2,3,17,SIB/IGN/Ley Provincial Nº 1.471,IGN,3732850
+-31.943918386,-58.1643650495378,191,falso,Área protegida,Sitio Ramsar Palmar Yatay,Sitio Ramsar,Palmar Yatay,2,2,17,SIB/IGN/Ramsar,IGN,225672
+-30.9677915609999,-64.3057515051554,192,falso,Área protegida,Reserva Natural de la Defensa Ascochinga,Reserva Natural de la Defensa,Ascochinga,2,2,17,SIB/IGN/Protocolo adicional Nº 10/2014,IGN,33973
+-26.3718304544999,-58.2670239468556,193,falso,Área protegida,Reserva de Biósfera Laguna Oca del Río Paraguay,Reserva de Biósfera,Laguna Oca del Río Paraguay,2,3,17,SIB/IGN/Sitio web de la gobernación de Formosa,IGN,1014276
+-46.99857992,-71.3490772964913,200,falso,Área protegida,Reserva Natural Silvestre Patagonia,Reserva Natural Silvestre,Patagonia,2,2,17,,MAyDS,385440
+-47.6394503885,-72.1160442027335,201,falso,Área protegida,Reserva Natural Silvestre El Rincón,Reserva Natural Silvestre,El Rincón,2,2,17,,IGN,150005
+-24.233732535,-61.7434443741381,194,falso,Área protegida,Reserva de Biósfera Riacho Teuquito,Reserva de Biósfera,Riacho Teuquito,2,3,17,SIB/IGN/UNESCO,IGN,896943
+-30.9804704709999,-65.6772083466916,195,falso,Área protegida,Parque Nacional Traslasierra,Parque Nacional,Traslasierra,1,2,17,SIB/IGN/Ley Nacional Nº 27.435/2018,IGN,278364
+-34.8992413319999,-64.8359127040824,196,falso,Área protegida,Reserva Forestal Natural Estancia Ralicó,Reserva Forestal Natural,Estancia Ralicó,2,3,17,SIB/IGN/Decreto Provincial N° 1.418/2004,IGN,152479
+-24.2717236425,-61.8153923275344,197,falso,Área protegida,Reserva Natural Formosa,Reserva Natural,Formosa,2,2,17,SIB/IGN/Ley Nacional Nº 17.916/1968,IGN,89984
+-26.720306951,-65.3799711369983,207,falso,Área protegida,Parque Universitario Sierra de San Javier,Parque Universitario,Sierra de San Javier,1,3,17,EDAMET/IGN/Resolución Universitaria 1.030/1973,IGN,121282
+-26.9118289419999,-65.7036590890377,208,falso,Área protegida,Reserva Natural Estricta La Angostura,Reserva Natural Estricta,La Angostura,2,3,17,SIB/IGN/Decreto Provincial Nº 736/3/1996,IGN,16717
+-27.1008960114999,-65.6035528466366,209,falso,Área protegida,Reserva Natural Los Sosa,Reserva Natural,Los Sosa,2,3,17,SIB/IGN/Ley Provincial Nº 1.929/1940,IGN,26998
+-27.1102646969999,-65.8922270597658,210,falso,Área protegida,Parque Provincial La Florida,Parque Provincial,La Florida,1,3,17,RIDES/SIB/IGN/Ley Provincial Nº 1.646/1936,IGN,139621
+-48.4174081164999,-71.2149444233068,217,falso,Área protegida,Reserva Provincial Meseta Lago Strobel,Reserva Provincial,Meseta Lago Strobel,2,3,17,SIB/IGN/Ley Provincial Nº 2.905/2006,IGN,121268
+-27.0191213069999,-65.8055929468748,211,falso,Área protegida,Reserva Natural Quebrada del Portugués,Reserva Natural,Quebrada del Portugués,2,3,17,,MAyDS,76903
+-27.45387257,-65.8533845301523,212,falso,Área protegida,Reserva Natural Santa Ana,Reserva Natural,Santa Ana,2,3,17,RIDES/SIB/IGN/Ley Provincial Nº 2.439/1940,IGN,172610
+-50.3827320474999,-71.5131948370476,218,falso,Área protegida,Reserva Natural de Interés Provincial Los Escarchados,Reserva Natural de Interés Provincial,Los Escarchados,2,3,17,SIB/IGN/Decreto Provincial Nº 198,IGN,21036
+-51.5268970385,-72.0299366404454,219,falso,Área protegida,Reserva Provincial Punta Gruesa,Reserva Provincial,Punta Gruesa,2,3,17,SIB/IGN/Ley Provincial Nº 2.639,IGN,23171
+-51.6445312495,-69.0402345248941,220,falso,Área protegida,Reserva Provincial Aves Migratorias,Reserva Provincial,Aves Migratorias,2,3,17,IGN/Ley Provincial Nº 2.583/2001,IGN,58548
+-47.6748980025,-68.2112034576114,228,falso,Área protegida,Parque Nacional Bosques Petrificados de Jaramillo,Parque Nacional,Bosques Petrificados de Jaramillo,1,2,17,SIB/IGN/Decreto Nacional Nº 7.252/1954,IGN,634930
+-50.244513259,-68.9625983567494,229,falso,Área protegida,Reserva Nacional Monte León,Reserva Nacional,Monte León,2,2,17,SIB/IGN/Ley Nacional Nº 25.945/2004,IGN,65516
+-30.0047040999999,-64.8888327704099,214,falso,Área protegida,Reserva Provincial de Uso Múltiple Salinas Grandes,Reserva Provincial de Uso Múltiple,Salinas Grandes,2,3,17,SIB/IGN/Decreto Provincial Nº 464/2003,IGN,2220773
+-30.058672677,-64.9466050936472,215,falso,Área protegida,Refugio de Vida Silvestre Monte de las Barrancas,Refugio de Vida Silvestre,Monte de las Barrancas,2,3,17,SIB/IGN/Decreto Reglamentario Nº 1.222/1988,IGN,76518
+-47.118441956,-70.6876796801465,216,falso,Área protegida,Patrimonio Mundial Cultural de la Humanidad Cueva de las Manos del Río Pinturas,Patrimonio Mundial Cultural de la Humanidad,Cueva de las Manos del Río Pinturas,2,3,17,SIB/IGN/UNESCO,IGN,101670
+-31.6687528439999,-64.7702441390781,221,falso,Área protegida,Parque Nacional Quebrada del Condorito,Parque Nacional,Quebrada del Condorito,1,2,17,SIB/IGN/Ley Nacional Nº 24.749/1996,IGN,245790
+-31.7983672095,-64.8065054998652,222,falso,Área protegida,Reserva Nacional Quebrada del Condorito,Reserva Nacional,Quebrada del Condorito,2,2,17,SIB/IGN/Ley Nacional Nº 24.749/1996,IGN,108030
+-47.8633770275,-72.0152522729832,224,falso,Área protegida,Reserva Nacional Perito Moreno,Reserva Nacional,Perito Moreno,2,2,17,SIB/IGN/Decreto Nacional Nº 105.433/1937,IGN,320022
+-49.97723262,-73.402908018618,225,falso,Área protegida,Parque Nacional Los Glaciares,Parque Nacional,Los Glaciares,1,2,17,SIB/IGN/Decreto Nacional Nº 105433/1937,IGN,5336408
+-49.7443512909999,-72.9636982870858,226,falso,Área protegida,Reserva Nacional Los Glaciares,Reserva Nacional,Los Glaciares,2,2,17,SIB/IGN/Decreto Nacional Nº 105433/1937,IGN,1898269
+-28.4566775629999,-57.7240403669653,232,falso,Área protegida,Parque Nacional Iberá-Núcleo Carambola,Parque Nacional,Iberá-Núcleo Carambola,1,2,17,IGN/Ley Nacional Nº 27481/2018,IGN,103123
+-28.1199592695,-57.2892271059506,233,falso,Área protegida,Parque Nacional Iberá - Núcleo San Nicolás/San Alonso,Parque Nacional,Iberá - Núcleo San Nicolás/San Alonso,1,2,17,IGN/Ministerio de Ambiente,IGN,1070780
+-54.746180879,-68.3289954339522,243,falso,Área protegida,Sitio Ramsar Glaciar Vinciguerra y Turberas Asociadas,Sitio Ramsar,Glaciar Vinciguerra y Turberas Asociadas,2,2,17,SIB/IGN/RAMSAR,IGN,27595
+-27.920347458,-56.9384673440787,234,falso,Área protegida,Parque Nacional Iberá - Núcleo Cambyretá,Parque Nacional,Iberá - Núcleo Cambyretá,1,2,17,IGN/Ministerio Ambiente,IGN,234818
+-28.7501367595,-59.2964948272657,231,falso,Área protegida,Sitio Ramsar Jaaukanigás,Sitio Ramsar,Jaaukanigás,2,2,17,SIB/IGN/Ramsar,IGN,4406042
+-54.625225227,-68.477737997949,241,falso,Área protegida,Reserva Corazón de la Isla,Reserva,Corazón de la Isla,2,3,17,SIB/IGN/Ley Provincial Nº 494/2000,IGN,1717655
+-54.6600267169999,-68.4770153848728,242,falso,Área protegida,Parque Nacional Tierra del Fuego,Parque Nacional,Tierra del Fuego,1,2,17,SIB/IGN/Ley Nacional Nº 15.554/1960,IGN,699878
+-27.2919553609999,-58.6359717706272,235,falso,Área protegida,Reserva Provincial Isla del Cerrito,Reserva Provincial,Isla del Cerrito,2,3,17,SIB/IGN,IGN,121896
+-29.1342390659999,-59.4128611029411,236,falso,Área protegida,Reserva Natural de la Defensa Isla El Tala,Reserva Natural de la Defensa,Isla El Tala,2,2,17,SIB/IGN/APN,IGN,69292
+-32.140995261,-60.6471043294149,237,falso,Área protegida,Parque Nacional Pre-Delta,Parque Nacional,Pre-Delta,1,2,17,SIB/IGN/Ley Nacional Nº 24.063/1992,IGN,26787
+-24.678334376,-64.6163468102867,244,falso,Área protegida,Parque Nacional El Rey,Parque Nacional,El Rey,1,2,17,SAyDS/IGN04/SIB,IGN,398197
+-24.161521407,-65.3097008577346,245,falso,Área protegida,Parque Botánico Municipal Barón Carlos María Schuel,Parque Botánico Municipal,Barón Carlos María Schuel,1,4,17,IGN04/Proyungas,IGN,155
+-41.2994695949999,-66.8852152660776,261,falso,Área protegida,Área Natural Protegida Meseta de Somuncurá,Área Natural Protegida,Meseta de Somuncurá,2,3,17,SIB/IGN/Decreto Provincial Nº 356/1986,IGN,16158072
+-31.0514429604999,-69.1389393331056,255,falso,Área protegida,Reserva de Uso Múltiple Don Carmelo,Reserva de Uso Múltiple,Don Carmelo,2,5,3,SIB/IGN/Red Argentina de Reservas Naturales Privadas,IGN,399691
+-31.877126215,-58.2629895548352,238,falso,Área protegida,Parque Nacional El Palmar,Parque Nacional,El Palmar,1,2,17,SIB/IGN/Ley Nacional Nº 16.802/1966,IGN,84978
+-26.3716535459999,-67.2494690376924,239,falso,Área protegida,Sitio Ramsar Lagunas Altoandinas y Puneñas de Catamarca,Sitio Ramsar,Lagunas Altoandinas y Puneñas de Catamarca,2,2,17,MAyDS,,10823997
+-26.7017392585,-67.6763048098376,240,falso,Área protegida,Area Natural Protegida Campo de Piedra Pómez,Area Natural Protegida,Campo de Piedra Pómez,2,3,17,,MAyDS,754497
+-24.189752941,-65.3035240327816,246,falso,Área protegida,Reserva Natural Municipal Río Xibi - Xibi,Reserva Natural Municipal,Río Xibi - Xibi,2,4,17,IGN04/Proyungas,IGN,331
+-23.2938894165,-66.0866959245272,247,falso,Área protegida,Reserva Municipal Natural y Cultural de Barrancas,Reserva Municipal Natural y Cultural,de Barrancas,2,4,17,IGN04/Proyungas/Legislatura de la Pcia.,IGN,16455
+-25.0559901304999,-65.7101846885546,248,falso,Área protegida,Reserva Permanente Lote 5B Carabajal,Reserva Permanente,Lote 5B Carabajal,2,3,17,SIB/IGN/Portal Web Oficial Prensa Salta,IGN,10995
+-38.8318980915,-71.0911675438709,254,falso,Área protegida,Reserva Forestal Batea Mahuida,Reserva Forestal,Batea Mahuida,2,3,17,SIB/IGN/Decreto Provincial Nº 1.446/1996,IGN,20428
+-34.0425727095,-67.9353699849994,267,falso,Área protegida,Reserva Provincial Forestal y de Biósfera Ñacunán,Reserva Provincial Forestal y de Biósfera,Ñacunán,2,3,17,SIB/IGN/Ley Provincial Nº 2.827/1961/Ley Provincial Nº 6.045/1993,IGN,129486
+-30.0787023745,-67.9843234980188,249,falso,Área protegida,Parque Natural Ischigualasto,Parque Natural,Ischigualasto,1,3,17,SIB/IGN/Ley Provincial Nº 3.666/1971,IGN,637493
+-31.478751593,-69.3945900462586,250,falso,Área protegida,Monumento Natural Provincial Cerro Alcázar,Monumento Natural Provincial,Cerro Alcazar,3,3,17,SIB/IGN/Decreto Provincial Nº 271/1993,IGN,1016
+-32.033054814,-68.8118160200668,251,falso,Área protegida,Paisaje Protegido Pedernal,Paisaje Protegido,Pedernal,2,3,17,SIB/IGN/Ley Provincial Nº 7.028,IGN,193695
+-30.099135088,-68.5711168979539,252,falso,Área protegida,Área Natural Protegida La Ciénaga,Área Natural Protegida,La Ciénaga,2,3,17,SIB/IGN/Ley Provincial Nº 7.640/2005,IGN,139662
+-36.653437341,-70.468849248287,262,falso,Área protegida,Área Natural Protegida Provincial del Sistema Domuyo,Área Natural Protegida Provincial,del Sistema Domuyo,2,3,-1,SIB/IGN04/Dirección Provincial de Áreas Naturales Protegidas/Decreto Provincial Nº 587/1989,IGN,929762
+-33.1086982,-69.824527013112,263,falso,Área protegida,Parque Provincial Volcán Tupungato,Parque Provincial,Volcán Tupungato,1,3,17,SIB/IGN/Secretaría de Ambiente y Ordenamiento Territorial Pcial.,IGN,1853878
+-37.8386807495,-71.0370573200206,253,falso,Área protegida,Parque Provincial Copahue - Caviahue,Parque Provincial,Copahue - Caviahue,1,3,17,Dirección Pcial. de Áreas Protegidas/SIB/IGN mapa Pcial. Neuquén,IGN,290362
+-24.1985506335,-63.5310432690262,256,falso,Área protegida,Reserva Provincial de Flora y Fauna Los Palmares,Reserva Provincial de Flora y Fauna,Los Palmares,2,3,17,SIB/IGN/Ley Provincial Nº 5.360/1979,IGN,141779
+-37.7589560805,-68.902769414461,257,falso,Área protegida,Reserva Provincial de Uso Múltiple Auca Mahuida,Reserva Provincial de Uso Múltiple,Auca Mahuida,2,3,17,SIB/IGN/Decreto Provincial Nº 1.446/1996,IGN,764364
+-38.6104961455,-70.3897339269988,258,falso,Área protegida,Área Natural Protegida Cuchillo - Curá,Área Natural Protegida,Cuchillo - Curá,2,3,17,SIB/IGN/Decreto Provincial Nº 161/2003,IGN,3861
+-45.8223126609999,-69.042083692088,259,falso,Área protegida,Reserva Natural Turística de Objetivo Específico Bosque Petrificado Sarmiento,Reserva Natural Turística de Objetivo Específico,Bosque Petrificado Sarmiento,2,3,17,SIB/IGN/Ley Provincial Nº XXIII - Nº 12,IGN,18863
+-42.6481406739999,-70.1044442039281,260,falso,Área protegida,Reserva Natural Turística Piedra Parada,Reserva Natural Turística,Piedra Parada,2,3,17,SIB/IGN/Ley Provincial Nº 5.555/2006,IGN,1310
+-35.526943315,-69.7930869263596,264,falso,Área protegida,Reserva Provincial de Paisaje Protegido Castillos de Pincheira,Reserva Provincial de Paisaje Protegido,Castillos de Pincheira,2,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 6.691/1999,IGN,4697
+-32.3557534134999,-68.001389114828,268,falso,Área protegida,Reserva Provincial Faunística y Florística Telteca,Reserva Provincial Faunística y Florística,Telteca,2,3,17,SIB/IGN/Ley Provincial Nº 5.061/1986,IGN,384324
+-33.5568433415,-67.1404027145082,269,falso,Área protegida,Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 11),Reserva Provincial Forestal y de Biósfera,Ñacunán (Lote 11),2,3,17,SIB/IGN/Ley Provincial Nº 2.827/1961/Ley Provincial Nº 6.045/1993,IGN,79337
+-33.75887257,-67.7735752793367,270,falso,Área protegida,Reserva Provincial Forestal y de Biósfera Ñacunán (Lote 9),Reserva Provincial Forestal y de Biósfera,Ñacunán (Lote 9),2,3,17,SIB/IGN/Ley Provincial Nº 2.827/1961/Ley Provincial Nº 6.045/1993,IGN,152453
+-34.811710247,-67.3303116831538,271,falso,Área protegida,Reserva de Uso Múltiple Sierra Pintada,Reserva de Uso Múltiple,Sierra Pintada,2,5,3,SIB/IGN/Resolución Provincial Nº 2.088/1996,IGN,46313
+-31.5424108369999,-68.6990188666553,272,falso,Área protegida,Parque Provincial Presidente Sarmiento,Parque Provincial,Presidente Sarmiento,1,3,17,SIB/IGN/Ley Provincial Nº 7.586/2005,IGN,9195
+-45.956499133,-67.5440804723241,279,falso,Área protegida,Reserva Natural Turística y de Investigación Punta Marqués,Reserva Natural Turística y de Investigación,Punta Marqués,2,4,17,SIB/IGN/Ley Provincial Nº 2.580/1985,IGN,966
+-31.4479486374999,-68.6809171864632,273,falso,Área protegida,Parque Natural y Paisaje Protegido Afloramientos Limo arcillosos,Parque Natural y Paisaje Protegido,Afloramientos Limo arcillosos,1,3,17,SIB/IGN/Ley Provincial Nº 7.308/2002,IGN,6551
+-31.454668509,-68.6147056671092,274,falso,Área protegida,Parque Natural y Paisaje Protegido Loma de las Tapias,Parque Natural y Paisaje Protegido,Loma de las Tapias,1,3,17,SIB/IGN/Ley Provincial Nº 7.307/2002,IGN,55816
+-36.803864623,-71.0450276079166,275,falso,Área protegida,Reserva Provincial Lagunas de Epulafquen,Reserva Provincial,Lagunas de Epulafquen,2,3,17,SIB/IGN/Mapa Provincial Neuquén,IGN,306566
+-29.8906666984999,-67.8730941705807,276,falso,Área protegida,Parque Nacional Talampaya,Parque Nacional,Talampaya,1,2,17,SIB/IGN/Ley Nacional Nº 24846/1997,IGN,2132167
+-31.9021894209999,-69.2517464785476,277,falso,Área protegida,Parque Nacional El Leoncito,Parque Nacional,El Leoncito,1,2,17,SIB/IGN/Ley Nacional Nº 25.656/2002,IGN,902265
+-25.2984937969999,-65.9150745485982,278,falso,Área protegida,Parque Nacional Los Cardones,Parque Nacional,Los Cardones,1,2,17,SIB/IGN/Ley Nacional Nº 24.737/1996,IGN,646695
+-33.6076680325,-69.383119573322,281,falso,Área protegida,Reserva Paisajística Natural y Cultural Protegida El Manzano Histórico,Reserva Paisajística Natural y Cultural Protegida,El Manzano Histórico,2,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 6.128/1994,IGN,9340
+-32.83865,-69.9114289682539,282,falso,Área protegida,Monumento Natural Puente del Inca,Monumento Natural,Puente del Inca,3,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 7465/1999,IGN,5431
+-34.683700454,-70.0566557943381,283,falso,Área protegida,Reserva de Recursos y Reserva Hídrica Natural Lagunas del Atuel,Reserva de Recursos y Reserva Hídrica Natural,Lagunas del Atuel,2,3,17,SIAT Mendoza/IGN,IGN,1295899
+-23.365899972,-63.28749390659,286,falso,Área protegida,Refugio de Vida Silvestre Dragones,Refugio de Vida Silvestre,Dragones,2,5,3,SIB/IGN/Decreto Provincial Nº 3.720/2007,IGN,36938
+-25.864758238,-65.7184538969562,287,falso,Área protegida,Reserva Natural Manejada de la Quebrada de Cafayate,Reserva Natural Manejada,de la Quebrada de Cafayate,2,3,17,SIB/IGN/Ley Provincial Nº 6.808/1995,IGN,953140
+-25.7164064529999,-66.1234374742948,288,falso,Área protegida,Monumento Natural de Angastaco,Monumento Natural,de Angastaco,3,3,17,SIB/IGN/Ley Provincial 6.808/1995,IGN,137414
+-24.1167150389999,-64.3820211407035,307,falso,Área protegida,Reserva Natural Provincial Las Lancitas,Reserva Natural Provincial,Las Lancitas,2,3,17,DIPEC/IGN04/IGN01,IGN,110828
+-36.5900764715,-69.0032068710735,315,falso,Área protegida,Área Provincial Natural Protegida La Payunia,Área Provincial Natural Protegida,La Payunia,2,3,17,SIAT Mendoza/IGN/Ley Provincial Nº 8.224/2010,IGN,6827155
+-35.661243245,-69.1300592156776,284,falso,Área protegida,Reserva Provincial Fáunica Laguna de Llancanelo,Reserva Provincial Fáunica,Laguna de Llancanelo,2,3,17,SIB/IGN/Mapa Provincial IGN Mendoza,IGN,889507
+-25.0915101999999,-63.8182097281395,293,falso,Área protegida,Reserva Privada Inversora Juramento,Reserva Privada,Inversora Juramento,2,5,3,,MAyDS,126391
+-31.4602572599999,-68.7600302749715,294,falso,Área protegida,Paisaje Protegido Dique Quebrada de Ullum,Paisaje Protegido,Dique Quebrada de Ullum,2,3,3,,MAyDS,4396
+-24.7714484659999,-65.3741890507072,285,falso,Área protegida,Reserva Pública Bosques Protectores,Reserva Pública,Bosques Protectores,2,3,17,SIB/IGN/Decreto Provincial Nº 3.489/1995,IGN,18414
+-22.1586842099999,-63.9073587569813,306,falso,Área protegida,Reserva Provincial de Flora y Fauna Acambuco,Reserva Provincial de Flora y Fauna,Acambuco,2,3,17,SIB/IGN/Ley Provincial Nº 5.360/1979,IGN,80995
+-39.4252326355,-69.0804065018592,316,falso,Área protegida,Reserva de Uso Múltiple El Mangrullo,Reserva de Uso Múltiple,El Mangrullo,2,3,17,SIB/IGN/Ley Provincial Nº 7.307/2002,IGN,87517
+-38.9660375045,-71.2216855991065,289,falso,Área protegida,Reserva Forestal Chañy,Reserva Forestal,Chañy,2,3,17,SIB/IGN/Decreto Provincial Nº 1.412/1968,IGN,49793
+-35.6216232065,-69.1590264420414,290,falso,Área protegida,Sitio Ramsar Laguna de Llancanelo,Sitio Ramsar,Laguna de Llancanelo,2,2,17,,MAyDS,422251
+-22.370113961,-64.0649981627817,291,falso,Área protegida,Reserva Natural de Uso Múltiple Fracciones 50 y 51 del Lote Fiscal 3,Reserva Natural de Uso Múltiple,Fracciones 50 y 51 del Lote Fiscal 3,2,3,17,,MAyDS,74870
+-24.688859935,-64.7817749829305,292,falso,Área protegida,Reserva Natural Privada Garrapata,Reserva Natural Privada,Garrapata,2,5,3,,MAyDS,43527
+-24.2233879205,-64.0090787579977,308,falso,Área protegida,Reserva de Fauna y Flora silvestre Lotes 32 y 33 porcion W,Reserva de Fauna y Flora silvestre,Lotes 32 y 33 porcion W,2,3,17,,MAyDS,200061
+-22.6517707759999,-66.803524017122,295,falso,Área protegida,Sitio Ramsar Lagunas de Vilama,Sitio Ramsar,Lagunas de Vilama,2,2,17,DIPEC/IGN04/SAyDS,IGN,1568524
+-22.3222103985,-66.0009331694774,296,falso,Área protegida,Reserva de Biósfera Laguna de los Pozuelos,Reserva de Biósfera,Laguna de los Pozuelos,2,2,17,IGN04/DIPEC,IGN,3777444
+-23.2052234499999,-64.6868544930527,297,falso,Área protegida,Reserva de Biósfera de las Yungas,Reserva de Biósfera,de las Yungas,2,3,17,DIPEC/IGN04/SAyDS,IGN,13488705
+-23.6084432669999,-64.8166046243721,298,falso,Área protegida,Parque Nacional Calilegua,Parque Nacional,Calilegua,1,2,17,DIPEC/IGN04/SIB,IGN,773152
+-22.7981754404999,-64.4868541723773,305,falso,Área protegida,Parque Provincial Laguna Pintascayo,Parque Provincial,Laguna Pintascayo,1,3,17,SIB/IGN/Decreto Provincial Nº 3.273/2000,IGN,158109
+-23.151405555,-66.9654733703185,299,falso,Área protegida,Reserva Provincial Altoandina de la Chinchilla,Reserva Provincial,Altoandina de la Chinchilla,2,3,17,SAyDS/IGN04/Decreto Provincial 2213-E-92,IGN,3170373
+-24.6978373965,-66.2690562920414,302,falso,Área protegida,Monumento Natural del Abra del Acay,Monumento Natural,del Abra del Acay,3,3,17,SIB/IGN/Ley Provincial Nº 6.808/1995,IGN,381809
+-23.314984017,-65.4558129749267,303,falso,Área protegida,Patrimonio Mundial Cultural de la Humanidad Quebrada de Humahuaca,Patrimonio Mundial Cultural de la Humanidad,Quebrada de Humahuaca,2,3,17,DIPEC/IGN04/UNESCO,IGN,5472465
+-24.1099210739999,-65.4476866658739,304,falso,Área protegida,Parque Provincial Potrero de Yala,Parque Provincial,Potrero de Yala,1,3,17,DIPEC/IGN04/SIB,IGN,44606
+-41.8137366604999,-71.6688106466257,329,falso,Área protegida,Área Natural Protegida Río Azul - Lago Escondido,Área Natural Protegida,Río Azul - Lago Escondido,2,3,17,SIB/IGN/Ley Provincial Nº 2.833/1994,IGN,771352
+-31.7370711474999,-69.7137149141701,317,falso,Área protegida,Refugio Privado de Vida Silvestre Los Morrillos,Refugio Privado de Vida Silvestre,Los Morrillos,2,5,3,SIB/IGN/Convenio Propietario/Fundación S/N /1993,IGN,195532
+-24.4337262489999,-65.2805871143914,309,falso,Área protegida,Área Natural Protegida Provincial Los Diques,Área Natural Protegida Provincial,Los Diques,2,3,17,SAyDS/IGN04/Ley Provincial 5365/2003,IGN,209374
+-24.754764717,-65.5410866002439,310,falso,Área protegida,Reserva Natural de Uso Múltiple Finca Las Costas,Reserva Natural de Uso Múltiple,Finca Las Costas,2,3,17,SIB/RIDES/IGN,IGN,108087
+-31.13037777,-67.6079896561001,311,falso,Área protegida,Parque Natural Valle Fértil,Parque Natural,Valle Fértil,1,3,17,SIB/IGN/Ley Provincial Nº 3.666/1971,IGN,8039778
+-32.8791291739999,-68.9181561564365,312,falso,Área protegida,Reserva Natural Provincial Divisadero Largo,Reserva Natural Provincial,Divisadero Largo,2,3,17,SIB/IGN/Decreto Provincial Nº 2.192/1970,IGN,5081
+-33.020522561,-69.4298096357904,313,falso,Área protegida,Parque Provincial Cordon del Plata,Parque Provincial,Cordon del Plata,1,3,17,SIB/IGN/Ley Provincial Nº 307/1994,IGN,1753389
+-34.17166751,-69.5359844489831,314,falso,Área protegida,Reserva Provincial Hídrica Natural y de Paisaje Protegido Laguna del Diamante,Reserva Provincial Hídrica y de Paisaje Protegido,Laguna del Diamante,2,3,17,SIB/IGN/Ley Provincial Nº 307/1994,IGN,1968190
+-43.153472892,-70.4432893187813,318,falso,Área protegida,Reserva Natural Turística de Objetivo Específico Laguna Aleusco,Reserva Natural Turística de Objetivo Específico,Laguna Aleusco,2,3,17,SIB/IGN/Ley Provincial Nº XXIII - Nº 12,IGN,10158
+-39.3721051185,-68.6202567686221,319,falso,Área protegida,Paisaje Protegido Valle Cretacico,Paisaje Protegido,Valle Cretacico,2,4,17,SIB/IGN/Mapa Provincial IGN La Pampa,IGN,2427132
+-24.1887332499999,-63.9537535606053,320,falso,Área protegida,Reserva Nacional Pizarro,Reserva Nacional,Pizarro,2,2,17,SAyDS/IGN04/SIB/IGN01,IGN,84887
+-42.1765931675,-71.51429500426,330,falso,Área protegida,Reserva Forestal de Uso Múltiple Lago Epuyén,Reserva Forestal de Uso Múltiple,Lago Epuyén,2,3,17,SIB/IGN/418/03,IGN,188580
+-22.179150194,-63.8251869064088,321,falso,Área protegida,Reserva de Uso Múltiple Lotes 1703-1704-4325-4326-4336-19866,Reserva de Uso Múltiple,Lotes 1703-1704-4325-4326-4336-19866,2,5,3,,MAyDS,251927
+-22.5874355855,-64.6341171343303,322,falso,Área protegida,Parque Nacional Baritú,Parque Nacional,Baritú,1,2,17,SIB/IGN/Ley Nacional Nº 20656/1974,IGN,682349
+-24.1880796804999,-65.1425024131438,323,falso,Área protegida,Reserva Ecológica Municipal de Uso Múltiple Serranías del Zapla,Reserva Ecológica Municipal de Uso Múltiple,Serranías del Zapla,2,4,17,IGN04/Fundación Proyungas/Ordenanza Mun.756/2003,IGN,371319
+-23.0265788464999,-65.2514288866424,324,falso,Área protegida,Monumento Natural Provincial Laguna Leandro,Monumento Natural Provincial,Laguna Leandro,3,3,17,IGN02/IGN04/APN,IGN,337
+-33.043071863,-67.1457262519343,325,falso,Área protegida,"Sitio Ramsar Lagunas de Guanacache, Desaguadero y del Bebedero",Sitio Ramsar,"Lagunas de Guanacache, Desaguadero y del Bebedero",2,2,17,SIB/IGN/Ramsar,IGN,9646744
+-40.3375961825,-71.4385542603006,336,falso,Área protegida,Reserva Nacional Lanín,Reserva Nacional,Lanín,2,2,17,,IGN,1933017
+-40.8250961705,-71.6287248462203,334,falso,Área protegida,Parque Nacional Los Arrayanes,Parque Nacional,Los Arrayanes,1,2,17,SIB/IGN/Ley Nacional Nº 19.292/1971,IGN,17856
+-39.84566578,-71.1819171354439,332,falso,Área protegida,Área Natural Protegida Boca del Chimehuín,Área Natural Protegida,Boca del Chimehuín,2,3,17,SIB/IGN/Ley Provincial Nº 2.345,IGN,17344
+-40.8996805614999,-71.0212897428552,333,falso,Área protegida,Paisaje Protegido Río Limay,Paisaje Protegido,Río Limay,2,3,17,SIB/IGN/Ley Provincial Nº 2.946/1996,IGN,168077
+-43.2671425754999,-71.699028607999,341,falso,Área protegida,Reserva Provincial Lago Baggilt,Reserva Provincial,Lago Baggilt,2,3,17,SIB/IGN/500K,IGN,17290
+-43.1828563955,-71.4878277870463,342,falso,Área protegida,Reserva Natural Turística Nant y Fall (Arroyo Las Caídas),Reserva Natural Turística,Nant y Fall (Arroyo Las Caídas),2,3,17,SIB/IGN/Ley Provincial Nº 4.050/1995,IGN,3613
+-32.5664020835,-67.1465968860913,326,falso,Área protegida,Parque Nacional Sierra de las Quijadas,Parque Nacional,Sierra de las Quijadas,1,2,17,SIB/IGN/Ley Nacional Nº 24.015/1991,IGN,745001
+-41.2965775814999,-71.3830954573749,327,falso,Área protegida,Reserva de Biósfera Andino Norpatagónica,Reserva de Biósfera,Andino Norpatagónica,2,3,17,SIB/IGN/UNESCO,IGN,23573774
+-41.7282614855,-71.4174917706013,328,falso,Área protegida,Área Natural Protegida Cipresal de las Guaitecas,Área Natural Protegida,Cipresal de las Guaitecas,2,3,17,SIB/IGN/Ley Provincial Nº 4.047/2005,IGN,38913
+-42.2630342619999,-71.8687560885585,331,falso,Área protegida,Parque Provincial y Reserva Forestal Río Turbio,Parque Provincial y Reserva Forestal,Río Turbio,1,3,17,SIB/IGN/Ley Provincial Nº 4.054/1994,IGN,713446
+-39.573103244,-71.2232991005023,335,falso,Área protegida,Parque Nacional Lanín,Parque Nacional,Lanín,1,2,17,,IGN,2182554
+-41.6884539055,-71.7380790707888,344,falso,Área protegida,Parque Provincial Azul,Parque Provincial,Azul,2,3,17,MAyDS,IGN,71720
+-23.3696334475,-64.9773424690757,345,falso,Área protegida,Itinerario Cultural Qhapaq Ñan - Sistema Vial Andino,Itinerario Cultural,Qhapaq Ñan - Sistema Vial Andino,2,3,17,INAPL/IGN04,IGN,182
+-31.8301593569999,-58.3350388693997,349,falso,Área protegida,Refugio Privado de Vida Silvestre La Aurora del Palmar,Refugio Privado de Vida Silvestre,La Aurora del Palmar,2,5,3,SIB/IGN/Convenio Propietario/Fundación,IGN,20633
+-35.3431931849999,-57.2037297513409,350,falso,Área protegida,Reserva de Biósfera Parque Costero del Sur,Reserva de Biósfera,Parque Costero del Sur,2,3,17,SIB/IGN/Decreto Provincial Nº 7585/1984,IGN,261465
+-25.0525510175,-58.1310790045263,373,falso,Área protegida,Sitio RAMSAR y Parque Nacional Río Pilcomayo,Sitio RAMSAR y Parque Nacional,Río Pilcomayo,2,2,17,,MAyDS,510557
+-32.574482676,-69.0322397768871,375,falso,Área protegida,Sitio RAMSAR y Reserva Natural Privada Villavicencio,Sitio RAMSAR y Reserva Natural Privada,Villavicencio,2,5,3,SIB/IGN/Resolución Nº 1.065/2000,IGN,624292
+-28.5368438635,-57.1586352939792,376,falso,Área protegida,Sitios Ramsar Lagunas y Esteros del Iberá,Sitio Ramsar,Lagunas y Esteros del Iberá,2,2,17,,MAyDS,223389
+-25.8939728284999,-54.4114155077305,346,falso,Área protegida,Monumento Natural Isla Palacios,Monumento Natural,Isla Palacios,3,3,17,SIB/IGN/Ley Provincial Nº 3.302/1996,IGN,1095
+-35.9750094529999,-57.413642234434,347,falso,Área protegida,Sitio Ramsar Bahia Samborombon,Sitio Ramsar,Bahia Samborombon,2,2,17,,MAyDS,1801780
+-27.1544753974999,-53.9072109318872,348,falso,Área protegida,Parque Provincial Moconá,Parque Provincial,Moconá,1,3,17,SIB/IGN/Ley Provincial Nº 2.932/1992,IGN,10095
+-26.9922317559999,-65.7895345143756,360,falso,Área protegida,Parque Nacional Aconquija,Parque Nacional,Aconquija,1,2,17,RIDES/SIB/IGN/Ley Provincial Nº 2.439/1940,IGN,1250357
+-22.2635843569999,-64.7629435141135,351,falso,Área protegida,Reserva Nacional El Nogalar de los Toldos,Reserva Nacional,El Nogalar de los Toldos,2,2,17,SIB/IGN/Ley Nacional Nº 26129/2006,IGN,32739
+-36.341814041,-56.9827434466309,352,falso,Área protegida,Reserva Natural Provincial Integral y de Objetivo Definido Rincón de Ajó,Reserva Natural Provincial Integral y de Objetivo,Rincón de Ajó,2,3,17,SIB/IGN/Decreto Provincial Nº 6.276/1987,IGN,13995
+-28.4181599124999,-57.7374432956841,353,falso,Área protegida,Reserva Nacional Iberá-Núcleo Carambola,Reserva Nacional,Iberá-Núcleo Carambola,2,2,17,IGN/Ley Nacional Nº 27481/2018,IGN,75177
+-25.7878582764999,-61.8767736100278,361,falso,Área protegida,Parque Nacional y Reserva de Uso Múltiple Copo,Parque Nacional y  Reserva de Uso Múltiple,Copo,1,2,17,SIB/IGN/Ley Provincial Nº 6.601/2002/Ley Provincial Nº 6.843/2007 y SIB/IGN/Ley Provincial N° 25.,IGN,1966112
+-50.347532415,-68.8920626397046,354,falso,Área protegida,Reserva Provincial Isla Monte Leon,Reserva Provincial,Isla Monte Leon,2,4,17,,MAyDS,4734
+-36.357916389,-56.874839035732,355,falso,Área protegida,Parque Nacional Campos del Tuyú,Parque Nacional,Campos del Tuyú,1,2,17,SIB/IGN/Ley Nacional Nº 26.499/2009,IGN,30485
+-34.2366142849999,-58.8834642859808,356,falso,Área protegida,Parque Nacional Ciervo de los Pantanos,Parque Nacional,Ciervo de los Pantanos,1,2,17,SIB/IGN/APN,IGN,56098
+-34.1635135,-58.5501258881508,357,falso,Área protegida,Reserva de Biósfera Delta del Paraná,Reserva de Biósfera,Delta del Paraná,2,3,17,SIB/IGN/Decreto Municipal Nº 1.303/2000,IGN,1029920
+-32.8569200439999,-60.3329885892685,358,falso,Área protegida,Reserva de Uso Múltiple Islas de Victoria,Reserva de Uso Múltiple,Islas de Victoria,2,3,17,SIB/IGN/Ley Provincial Nº 8.967,IGN,4352305
+-34.2366142849999,-58.8834642859808,359,falso,Área protegida,Sitios RAMSAR Reserva Natural Otamendi,Sitio Ramsar,Reserva Natural Otamendi,2,2,17,,MAyDS,41346
+-34.6069864034999,-58.3526225057416,363,falso,Área protegida,Sitio RAMSAR y Reserva Ecológica Costanera Sur,Sitio RAMSAR y Reserva Ecológica,Costanera Sur,2,4,17,IGN/Portal Ofical de la Ciudad Autónoma de Buenos Aires,IGN,3321
+-37.1065159425,-70.0499654761971,364,falso,Área protegida,Sitio RAMSAR y Parque Provincial del Tromen,Sitio RAMSAR y Parque Provincial,del Tromen,2,4,17,SIB/IGN/Decreto Provincial Nº 1.954/1971,IGN,300058
+-28.2748196094999,-57.0526107622004,365,falso,Área protegida,Parque y Reserva Natural Provincial Iberá,Parque y Reserva Natural Provincial,Iberá,1,3,17,IGN/Ley Provincial Nº 3771/1983,IGN,10687229
+-39.030933509,-70.3546687396745,366,falso,Área protegida,"Sitio RAMSAR, Parque y Reserva Nacional Laguna Blanca","Sitio RAMSAR, Parque y Reserva Nacional",Laguna Blanca,2,2,17,SIB/IGN/Decreto-Ley Nacional N°63.691/1940,IGN,112448
+-26.259010439,-66.8270272022045,367,falso,Área protegida,Reserva de la Biósfera y Reserva Natural Laguna Blanca,Reserva de la Biósfera y Reserva Natural,Laguna Blanca,2,2,17,,IGN,6494213
+-28.462108071,-69.0254271408964,368,falso,Área protegida,Sitio RAMSAR y Refugio ProvincialLaguna Brava,Sitio RAMSAR y Refugio Provincial,Laguna Brava,2,3,17,SIB/IGN/Ley Provincial Nº 3.944/1980,IGN,4228376
+-22.356929175,-66.0061744023066,369,falso,Área protegida,Sitio RAMSAR y Monumento Natural Laguna de los Pozuelos,Sitio RAMSAR y Monumento Natural,Laguna de los Pozuelos,3,2,17,DIPEC/IGN04/Atlas IGN 2015,IGN,211099
+-42.8426852895,-71.8757851536086,370,falso,Área protegida,Parque y Reserva Nacional Los Alerces,Parque y Reserva Nacional,Los Alerces,1,2,17,SIB/IGN/Decreto Nacional Nº 105.433/1937,IGN,1885277
+-50.4136597995,-72.8555663645163,371,falso,Área protegida,Parque y Reserva Provincial Península de Magallanes,Parque y Reserva Provincial,Península de Magallanes,1,3,17,,MAyDS,454793
+-34.8038888824999,-58.0677159477505,372,falso,Área protegida,Reserva Natural Provincial Integral Punta Lara,Reserva Natural Provincial Integral,Punta Lara,2,3,17,SIB/IGN/Decreto Provincial Nº 5.421/1958,IGN,55845
+-28.6377561589999,-57.341252846461,378,falso,Área protegida,Parque y Reserva Nacional Iberá-Rincón del Socorro/Iberá,Parque y Reserva Nacional,Iberá-Rincón del Socorro/Iberá,1,2,17,,MAyDS,312879
+-50.042785787,-68.4911295093243,379,falso,Área protegida,Área de Uso Limitado Bajo Protección Especial Isla Leones,Área de Uso Limitado Bajo Protección Especial,Isla Leones,2,3,17,SIB/IGN/Resolución Nº 720/1991,IGN,11817
+-37.644798604,-57.3825087512199,380,falso,Área protegida,Reserva Natural Provincial de Uso Múltiple Mar Chiquita,Reserva Natural Provincial de Uso Múltiple,Mar Chiquita,2,3,17,SIB/IGN/OPDS,IGN,90020
+-37.5822571275,-57.3893851992415,381,falso,Área protegida,Refugio de Vida Silvestre Mar Chiquita,Refugio de Vida Silvestre,Mar Chiquita,2,3,17,,MAyDS,629565
+-29.2592787315,-69.2788189705662,377,falso,Área protegida,Parque Nacional San Guillermo,Parque Nacional,San Guillermo,1,2,17,SIB/IGN/Ley Nacional Nº 25.077/1998,IGN,1650043
+-32.6759218246824,-69.9453947584146,395,falso,Área protegida,Parque Provincial Aconcagua,Parque Provincial,Aconcagua,1,3,17,SIB/IGN/Ley Provincial Nº 4.807/1983,IGN,657119
+-37.7126109334999,-57.4062251726744,382,falso,Área protegida,Reserva Natural de la Defensa Mar Chiquita - Dragones de Malvinas,Reserva Natural de la Defensa,Mar Chiquita - Dragones de Malvinas,2,2,17,SIB/IGN/Protocolo adicional Nº 04/2009,IGN,18615
+-37.6224099864999,-57.3459790631111,383,falso,Área protegida,Reserva de Biósfera Parque Atlántico Mar Chiquita,Reserva de Biósfera,Parque Atlántico Mar Chiquita,2,3,17,SIB/IGN/Ordenanza Municipal Mar Chiquita Nº 169/1990,IGN,286255
+-52.3473518344999,-68.3957600234178,384,falso,Área protegida,Reserva Provincial Cabo Vírgenes,Reserva Provincial,Cabo Vírgenes,2,3,17,SIB/IGN/Ley Provincial Nº 1.806,IGN,26174
+-51.57734792,-69.0291349407604,385,falso,Área protegida,Área de Uso Científico Bajo Protección Especial Isla Deseada,Área de Uso Científico Bajo Protección Especial,Isla Deseada,2,3,17,SIB/IGN/Disposición Nº 7/1990,IGN,244
+-32.5853890684999,-69.7960552563147,386,falso,Área protegida,Reserva Natural de la Defensa Uspallata,Reserva Natural de la Defensa,Uspallata,0,0,0,SIB/ Protocolo adicional 14,IGN,415969
+-30.3797784854999,-62.8107670519111,387,falso,Área protegida,Sitios RAMSAR y Reserva Provincial de Uso Múltiple Bañados del Río Dulce y Laguna de Mar Chiquita,Sitios RAMSAR y Reserva Provincial de Uso Múltipl,Bañados del Río Dulce y Laguna de Mar Chiquita,2,2,17,SIB/IGN/Decreto Provincial N° 3.215/1994,IGN,10726532
+-30.705935793,-62.5977628421137,390,falso,Área protegida,Parque Nacional Ansenuza,Parque Nacional,Ansenuza,1,2,17,Ley 27673,IGN,1776194
+-27.3971014999999,-55.6494866717739,388,falso,Area Protegida,Reserva Natural Silvestre Parque Federal Campo San Juan,Reserva Nacional,Campo San Juan,2,-1,-1,pfcamposanjuan@apn.gob.ar,IGN,57234
+-41.4987831955,-64.984632737541,389,falso,Área protegida,Parque Nacional Islote Lobos,Parque Nacional,Islotes Lobos,1,2,17,SIB/IGN/Decreto Provincial Nº 1.402/1977,IGN,195383
+-27.1803099999999,-58.6906769468687,392,falso,Area Protegida,Parque Nacional Laguna El Palmar,Parque Nacional,Laguna El Palmar,1,2,17,Ley 27707,IGN,55535
+-30.37140437,-62.7936789833826,391,falso,Área protegida,Reserva Nacional  Ansenuza,Reserva Nacional,Ansenuza,2,2,17,Ley 27673,IGN,4839670
+-32.2448675269999,-69.9705901282739,393,falso,Área protegida,Reserva Natural de la Defensa Manantiales,Reserva Natural de la Defensa,Manantiales,0,0,0,SIB/Protocolo adicional 18,IGN,3712676
+-32.2448675269999,-69.9705901282739,394,falso,Área protegida,Reserva Natural de la Defensa Manantiales,Reserva Natural de la Defensa,Manantiales,0,0,0,SIB/Protocolo adicional 18,IGN,3712676
